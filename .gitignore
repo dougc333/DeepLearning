@@ -1,0 +1,6 @@
+*.7z
+*.jpg
+/kaggle/test
+/kaggle/train
+/kaggle/*.7z
+/kaggle/*.zip

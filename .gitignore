@@ -4,3 +4,7 @@
 /kaggle/train
 /kaggle/*.7z
 /kaggle/*.zip
+/**/*.p
+/**/*.jpeg
+/**/*.jpg
+/**/.DS_Store

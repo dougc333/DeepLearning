@@ -1,5 +1,6 @@
 *.7z
 *.jpg
+/udacity_dl/*
 /kaggle/test
 /kaggle/train
 /kaggle/*.7z

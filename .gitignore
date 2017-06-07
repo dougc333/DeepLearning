@@ -4,9 +4,12 @@
 /kaggle/train
 /kaggle/*.7z
 /kaggle/*.zip
+/kaggle/*.p
 /**/*.p
 /**/*.jpeg
 /**/*.jpg
 /**/.DS_Store
 /**/*.gz
+/kaggle/train/*
+/kaggle/test/*
 

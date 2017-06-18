@@ -20,7 +20,7 @@ def init():
 
 @app.route("/")
 def main():
-    return render_template("index.html",img_list=list_type1)
+    return render_template("index.html",img_list=list_type1,img_ht=100,img_width=100)
 
 if __name__=="__main__":
     list_type1.extend(init())

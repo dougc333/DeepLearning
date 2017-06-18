@@ -3,6 +3,7 @@
 /TensorFlowNotMnist/notMNIST_large/*
 /TensorFlowNotMnist/notMNIST_small/*
 /kaggle/*.zip
+/kaggle/*.7z
 /kaggle/data/*
 /not_mnist/*
 /udacity_dl/*

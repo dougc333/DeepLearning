@@ -1,48 +1,69 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
+<style lang="en">
+<style>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
 
     <meta charset="UTF-8">
     <title>UI</title>
+
+    <style>
+        .row_image {
+            float:left;
+            border: 1px red;
+               }
+        .radio{
+            float:right;
+            width:33%;
+            border: 1px green;
+        }
+
+        #firstbox{
+            border:1px solid black;
+            background: lightblue;
+            height: 100px;
+            width: 100px;
+        }
+        .container{
+            background: lightgreen;
+            border:1px solid black;
+        }
+        .image_class{
+             position: relative;
+            width: 400px;
+            height: 200px;
+            border: 3px solid #73AD21;
+        }
+        .div_absolute {
+            position: absolute;
+            top: 80px;
+            right: 0;
+            width: 200px;
+            height: 100px;
+            border: 2px solid #73AD21;
+            background-color: beige;
+        }
+    </style>
 </head>
 <body>
+       <div id="firstbox" >
+        </div>
+
 <div class="container">
-        <div class="header">
-            <h3 class="text-muted">Images</h3>
-        </div>
-
-        <div class="jumbotron">
-            <h4>This area is useless until there are stats/dashboard</h4>
-            <p class="lead"></p>
-        </div>
-
-        <div class="row marketing">
-            <div class="col-lg-6">
-                <div class="image">
-                <h4>{{img_list[0]}}</h4>
-                <p><img src="../static/train/Type_1/{{img_list[0]}}" height={{img_ht}} width={{img_width}}></p>
-                <input type="radio" name="keep" value="yes">Yes
-                <input type="radio" name="keep" value="no">No
+    <div class="row_image">
+        <div class="col-lg-6">
+            <div class="image_container">
+                <div class="image_class">
+                    <h4>{{img_list[0]}}</h4>
+                    <p><img src="../static/train/Type_1/{{img_list[0]}}" height={{img_ht}} width={{img_width}}></p>
+                    <div class="div_absolute">
+                        <input type="radio" name="keep" value="yes">Yes
+                        <input type="radio" name="keep" value="no">No
+                    </div>
                 </div>
-                <h4>{{img_list[1]}}</h4>
-                <p><img src="../static/train/Type_1/{{img_list[1]}}" height={{img_ht}} width={{img_width}}></p>
-
-                <h4>{{img_list[3]}}</h4>
-                <p><img src="../static/train/Type_1/{{img_list[2]}}" height={{img_ht}} width={{img_width}}></p>
-            </div>
-
-            <div class="col-lg-6">
-                <h4>Image</h4>
-                <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
-
-                <h4>Image</h4>
-                <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
-
-                <h4>Image</h4>
-                <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
             </div>
         </div>
+    </div>
+</div>
 </body>
 </html>

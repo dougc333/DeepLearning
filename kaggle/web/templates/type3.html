@@ -5,16 +5,9 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
 
     <meta charset="UTF-8">
-    <title>UI</title>
+    <title>type3</title>
 
     <style>
-
-        #firstbox{
-            border:1px solid black;
-            background: lightblue;
-            height: 100px;
-            width: 100px;
-        }
         .container{
             background: lightgreen;
             border:1px solid black;
@@ -37,17 +30,14 @@
     </style>
 </head>
 <body>
-       <div id="firstbox" >
-        </div>
-
 <div class="container">
     <div class="row_image">
         <div class="col-lg-6">
             <div class="image_container">
-                {% for img in img_list %}
+                {% for img in img_list3 %}
                 <div class="image_class">
                     <h4>{{img}}</h4>
-                    <p><img src="../static/train/Type_1/{{img}}" height={{img_ht}} width={{img_width}}></p>
+                    <p><img src="../static/train/Type_3/{{img}}" height={{img_ht}} width={{img_width}}></p>
                     <div class="div_absolute">
                         <input type="radio" name="keep" value="yes">Yes
                         <input type="radio" name="keep" value="no">No

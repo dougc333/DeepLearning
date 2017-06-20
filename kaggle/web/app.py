@@ -81,15 +81,15 @@ def signUpUser():
 
 @app.route("/type1")
 def type1():
-    return render_template("type1.html",img_list1=list_type1,img_ht=100,img_width=100)
+    return render_template("type1.html",img_list1=list_type1,img_ht=300,img_width=300)
 
 @app.route("/type2")
 def type2():
-    return render_template("type2.html", img_list2=list_type2,img_ht=100,img_width=100)
+    return render_template("type2.html", img_list2=list_type2,img_ht=300,img_width=300)
 
 @app.route("/type3")
 def type3():
-    return render_template("type3.html", img_list3=list_type3,img_ht=100,img_width=100)
+    return render_template("type3.html", img_list3=list_type3,img_ht=300,img_width=300)
 
 
 

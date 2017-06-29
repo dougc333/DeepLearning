@@ -81,7 +81,7 @@ def signUpUser():
 
 @app.route("/type1")
 def type1():
-    return render_template("type1.html",img_list1=list_type1,img_ht=300,img_width=300)
+    return render_template("type1.html",img_list1=list_type1,img_ht=3000,img_width=2500)
 
 @app.route("/type2")
 def type2():

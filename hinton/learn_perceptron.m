@@ -109,9 +109,16 @@ num_pos_examples = size(pos_examples,1);
 for i=1:num_neg_examples
     this_case = neg_examples(i,:);
     x = this_case'; %Hint
+    fprintf(['input:\t', mat2str(x), '\n']);
     activation = this_case*w;
+    fprintf(['activation:\t', mat2str(activation), '\n']);
+    fprintf(['w:\t', mat2str(w), '\n']);
     if (activation >= 0)
         %YOUR CODE HERE
+        deltaw = -x*(activation)*.1;
+        w = w - deltaw;
+        fprintf(['deltaw:\t', mat2str(deltaw), '\n']);
+        
     end
 end
 for i=1:num_pos_examples
@@ -120,6 +127,9 @@ for i=1:num_pos_examples
     activation = this_case*w;
     if (activation < 0)
         %YOUR CODE HERE
+        deltaw = -x*(activation)*.1;
+        w = w + deltaw;
+        fprintf(['deltaw:\t', mat2str(deltaw), '\n']);
     end
 end
 

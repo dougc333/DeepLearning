@@ -69,7 +69,9 @@ while (num_errs > 0)
     %If a generously feasible weight vector exists, record the distance
     %to it from the current weight vector.
     if (length(w_gen_feas) ~= 0)
+        fprintf('gen_feas weight exists. WTF are you????');
         w_dist_history(end+1) = norm(w - w_gen_feas);
+        fprintf(['w_dist_history is:\t',mat2str(w_dist_history),'\n']);
     end
 
     %Find the data points that the perceptron has incorrectly classified.
@@ -109,15 +111,18 @@ num_pos_examples = size(pos_examples,1);
 for i=1:num_neg_examples
     this_case = neg_examples(i,:);
     x = this_case'; %Hint
-    fprintf(['input:\t', mat2str(x), '\n']);
     activation = this_case*w;
-    fprintf(['activation:\t', mat2str(activation), '\n']);
-    fprintf(['w:\t', mat2str(w), '\n']);
+    fprintf(['neg_examples x:\t', mat2str(x), '\n']);
+    fprintf(['neg_examples w:\t', mat2str(w), '\n']);
+    fprintf(['neg_examples activation:\t', mat2str(activation), '\n']);
     if (activation >= 0)
         %YOUR CODE HERE
-        deltaw = -x*(activation)*.1;
-        w = w - deltaw;
-        fprintf(['deltaw:\t', mat2str(deltaw), '\n']);
+        fprintf('neg examples updating weights\n');
+        deltaw = x*(0-activation);
+        fprintf(['neg_examples w before update:\t', mat2str(w), '\n']);
+        w = w + deltaw;
+        fprintf(['neg_examples deltaw:\t', mat2str(deltaw), '\n']);
+        fprintf(['neg_examples after update w:\t', mat2str(w), '\n']);
         
     end
 end
@@ -125,11 +130,14 @@ for i=1:num_pos_examples
     this_case = pos_examples(i,:);
     x = this_case';
     activation = this_case*w;
+    fprintf(['pos activation:\t', mat2str(activation), '\n']);
+    fprintf(['pos w:\t', mat2str(w), '\n']);
+   
     if (activation < 0)
         %YOUR CODE HERE
-        deltaw = -x*(activation)*.1;
+        deltaw = x*(1-activation);
         w = w + deltaw;
-        fprintf(['deltaw:\t', mat2str(deltaw), '\n']);
+        fprintf(['pos deltaw:\t', mat2str(deltaw), '\n']);
     end
 end
 

@@ -24,3 +24,8 @@
 /kaggle/additional_Type_3_v2/*
 /kaggle/additional_Type_2_v2/*
 /kaggle/*.h5
+/kaggle/criteodisplay/*.txt
+/kaggle/criteodisplay/*.gz
+/kaggle/criteodisplay/*.csv
+/kaggle/criteodisplay/*.zip
+

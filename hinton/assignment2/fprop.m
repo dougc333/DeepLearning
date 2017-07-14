@@ -38,35 +38,63 @@ function [embedding_layer_state, hidden_layer_state, output_layer_state] = ...
 [vocab_size, numhid1] = size(word_embedding_weights);
 numhid2 = size(embed_to_hid_weights, 2);
 
+printf('\nnumwords,batchsize,vocab_size,numhid1: %d %d %d %d', numwords,batchsize,vocab_size,numhid1);
+
+printf('\n numhid2:%d', numhid2);
+
+
+
+[r,l] = size(hid_to_output_weights);
+printf('\n hid_to_output_weights numrows,numcols: %d %d\n', r,l);
+
+[r,l] = size(hid_to_output_weights');
+printf('\n hid_to_output_weights transpose numrows,numcols: %d %d\n', r,l);
+
+
 %% COMPUTE STATE OF WORD EMBEDDING LAYER.
 % Look up the inputs word indices in the word_embedding_weights matrix.
 embedding_layer_state = reshape(...
   word_embedding_weights(reshape(input_batch, 1, []),:)',...
   numhid1 * numwords, []);
 
+ [r,l] = size(embedding_layer_state);
+ printf('embedding_layer_state numrows,numcols: %d %d\n', r,l);
+ 
 %% COMPUTE STATE OF HIDDEN LAYER.
 % Compute inputs to hidden units.
 inputs_to_hidden_units = embed_to_hid_weights' * embedding_layer_state + ...
   repmat(hid_bias, 1, batchsize);
 
+ [r,l] = size(inputs_to_hidden_units);
+ printf('inputs_to_hidden_units numrows,numcols: %d %d\n', r,l);
+ 
+  
 % Apply logistic activation function.
 % FILL IN CODE. Replace the line below by one of the options.
 hidden_layer_state = zeros(numhid2, batchsize);
 % Options
 % (a) hidden_layer_state = 1 ./ (1 + exp(inputs_to_hidden_units));
 % (b) hidden_layer_state = 1 ./ (1 - exp(-inputs_to_hidden_units));
-% (c) hidden_layer_state = 1 ./ (1 + exp(-inputs_to_hidden_units));
+hidden_layer_state = 1 ./ (1 + exp(-inputs_to_hidden_units));
 % (d) hidden_layer_state = -1 ./ (1 + exp(-inputs_to_hidden_units));
+
+[r,l] = size(hidden_layer_state);
+printf('hidden_layer_state numrows,numcols: %d %d\n', r,l);
+
+[r,l] = size(repmat(output_bias, 1, batchsize)); 
+ printf('\n repmat rows, cols: %d %d', r,l);
+ 
 
 %% COMPUTE STATE OF OUTPUT LAYER.
 % Compute inputs to softmax.
 % FILL IN CODE. Replace the line below by one of the options.
 inputs_to_softmax = zeros(vocab_size, batchsize);
 % Options
-% (a) inputs_to_softmax = hid_to_output_weights' * hidden_layer_state +  repmat(output_bias, 1, batchsize);
+inputs_to_softmax = hid_to_output_weights' * hidden_layer_state +  repmat(output_bias, 1, batchsize);
 % (b) inputs_to_softmax = hid_to_output_weights' * hidden_layer_state +  repmat(output_bias, batchsize, 1);
 % (c) inputs_to_softmax = hidden_layer_state * hid_to_output_weights' +  repmat(output_bias, 1, batchsize);
 % (d) inputs_to_softmax = hid_to_output_weights * hidden_layer_state +  repmat(output_bias, batchsize, 1);
+
 
 % Subtract maximum. 
 % Remember that adding or subtracting the same constant from each input to a

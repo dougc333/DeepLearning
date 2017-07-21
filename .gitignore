@@ -1,3 +1,4 @@
+GAN/data/*.mat
 *.7z
 *.jpg
 /TensorFlowNotMnist/notMNIST_large/*

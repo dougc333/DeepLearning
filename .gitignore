@@ -1,4 +1,5 @@
 GAN/data/*.mat
+GAN/data/train_32x32.mat
 *.7z
 *.jpg
 /TensorFlowNotMnist/notMNIST_large/*

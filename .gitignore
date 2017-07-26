@@ -1,3 +1,4 @@
+hinton/MNIST_data/*.gz
 GAN/data/*.mat
 GAN/data/train_32x32.mat
 *.7z

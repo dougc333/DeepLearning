@@ -7,3 +7,10 @@ keras_vgg16: images resized to 224x224 w/transfer learning
 968.jpg should be Type1 was Type3
 1120.jpg should be Type1 was Type3, still is Type3
 
+removed additional-Images from cervical cancer
+redo at 30 images per class and ask if this is really doable 
+given scores/results
+
+look at additonal source dataset and paper from there
+
+look at lung detection instead. 

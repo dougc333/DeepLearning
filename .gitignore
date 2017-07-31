@@ -1,3 +1,8 @@
+kaggle/rossmann/original/*.csv
+kaggle/rossmann/*.zip
+kaggle/rossmann/original/*.zip
+kaggle/rossmann/*.pickle
+kaggle/rossmann/*.csv
 hinton/MNIST_data/*.gz
 GAN/data/*.mat
 GAN/data/train_32x32.mat

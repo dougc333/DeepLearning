@@ -1,11 +1,9 @@
-<<<<<<< HEAD
+first-neural-network/Bike-Sharing-Dataset/*.csv
 kaggle/rossmann/original/*.csv
 kaggle/rossmann/*.zip
 kaggle/rossmann/original/*.zip
 kaggle/rossmann/*.pickle
 kaggle/rossmann/*.csv
-=======
->>>>>>> 77d29db28b858a23cc40cf5ed7cc814d27939142
 hinton/MNIST_data/*.gz
 GAN/data/*.mat
 GAN/data/train_32x32.mat

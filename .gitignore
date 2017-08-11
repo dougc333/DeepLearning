@@ -1,3 +1,4 @@
+hinton/image-classification/*.gz
 first-neural-network/Bike-Sharing-Dataset/*.csv
 kaggle/rossmann/original/*.csv
 kaggle/rossmann/*.zip

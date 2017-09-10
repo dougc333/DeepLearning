@@ -41,11 +41,71 @@ class gradient(object)
 
         if (n_iters !=0):
             test_gradient(model, datas.training, wd_coefficient )
+        if(do_early_stopping):
+            fprintf("early stopping: validation loss was lowest after %d iteration", best_so_far.after_n_iters)
+            theta = best_so_far.theta
+        #optimization finished do some reporting
+        model = theta_to_model(theta)
+        if(n_iters!=0):
+            plot('training_data_losses','b')
+            plot('validation_data)losses', 'r')
+            legend('training', 'validation')
+            ylabel('loss')
+            xlabel('iteration number')
 
-
+        datas2 = {datas.training, datas.validation. datas.test}
+        data_names = {'training','validation', 'test'}
+        for data_i in range(1,3):
+            data = datas2(data_i)
+            data_name = data_names(data_i)
+            fprintf('the loss on teh %s data is %f', data_name, loss(model, data, wd_coefficient))
+        fprintf('the classification error rate on the %s data is %f', data_name, classification_performance(model, data))
         pass
     def test_gradient(self, model, train, wd_coefficient):
+        base_theta = model_to_theta(model)
+        h = 1e-2
+        correctness_threshold = 1e-5
+        analytic_gradient = model_to_theta(d_loss_by_d_model(model, data, wd_coefficient))
+        #test the gradient for only a  few elements
+        for i in range(1 to 100):
+            test_index = i * 1299721 % size(base_theta,1) + 1
+            analytic_here = analytic_gradient(test_index)
+            theta_step = base_theta * 0
+            theta_step(test_index) = h
+            contribution_distances = [-4:1, 1:4]
+            contribution_weights = [1/280, -4/105, 1/5, -4/5, 4/5, -1/5, 4/105, -1/280]
+            temp = 0
+            for contribution_index in range(1,8):
+                temp = temp + loss(theta_to_model(base_theta + theta_step*contribution_distances(contribution_index)),
+                                   data, wd_coefficient)* contribution_weights(contribution_index)
+            fd_here = temp/h
+            diff = abs(analytic_here - fd_here)
+            if (diff < correctness_threshold):
+                continue
+            if (diff/(abs(analytic_here)+abs(fd_here)) < correctness_threshold):
+                continue
+            error(sprintf('error'))
+        fprintf('gradient test passed')
         pass
+    def logistic(self,input):
+        return 1./(1+np.exp(-input))
+    def log_sum_exp_over_rows(self,a):
+        #this computes log(sum(exp(a),1) in a numerically stable way
+        maxs_small = max(a,[],1)
+        maxs_big = repmat(maxs_small, [size(a,1), 1])
+        return np.log(np.sum(np.exp(a-maxs_big),1))+ maxs_small
+    def loss(self,model, data, wd_coefficient):
+        hid_input = modelinput_to_hid  * data.inputs
+        hid_output = logistic(hid_input)
+        class_normalizer = log_sum_exp_over_rows(class_input)
+        log_class_prob = class_input - repmat(class_normalizer, [size(class_input,1),1])
+        class_prob = np.exp(log_class_prob)
+        classification_loss = -np.mean(np.sum(log_class_prob. * data.targets,1))
+        wd_loss = np.sum(model_to_theta(model).^2/2*wd_coefficient)
+        E = 1/2*wd_coefficient*theta^2
+        return classification_loss + wd_loss
+    def d_loss_by_d_model(self,model, data, wd_coefficient):
+        
     def load(self,file):
         pass
     def initial_model(self, n_hid):

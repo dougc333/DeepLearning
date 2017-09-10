@@ -1,0 +1,60 @@
+class gradient(object)
+    def __init__(self):
+        pass
+    def a3(self, wd_coefficient, n_hid, n_iters, learning_rate,
+                    momentum_multiplier, do_early_stopping, mini_batch_size):
+        """
+
+        """
+        model = initial_model(self, n_hid)
+        from_data_file = load(data.mat)
+        datas = fom_data_file.data
+        n_training_cases = size(datas.training.inputs,2)
+        if (n_iters!=0):
+            test_gradient(self,model,datas.training,wd_coefficient)
+        theta = model_to_theta(model)
+        momentum_speed = theta * 0
+        training_data_losses = []
+        validation_data_losses = []
+        if do_early_stopping:
+            best_so_far_theta = -1
+            best_so_far_validation = inf #find replacement for later
+            best_so_far.after_n_iters = -1
+        for optimization_iteration_i in range(1, n_iters):
+            model = theta_to_model(theta)
+            training_batch_start = (optimization_iteration_i-1) * mini_batch_size % n_training_cases +1
+            training_batch.inputs = dates.training.inputs(:,training_batch_start:training_batch_start + mini_batch_size-1)
+            training_batch.targets = datas.training.inputs(:, training_batch_start:training_batch_start + mini_batch_size -1)
+            gradient = model_to_theta(d_loss_by_d_model(model, training_batch, wd_coefficient))
+            momentum_speed = momentum_speed * momentum_multiplier - gradient
+            theta = theta + momentum_speed * learning_rate
+
+            model=theta_to_model(theta)
+            training_data_losses = [training_data_losses, loss(model,datas.training,wd_coefficient)]
+            validation_data_losses = [validation_data_losses, loss(model,datas.validation,wd_coefficient)]
+            if (do_early_stopping and validation_data_losses(end) < best_so_far_validation_loss):
+                best_so_far_theta = theta
+                best_so_far_validation_loss = validation_data_losses(end)
+                best_so_far.after_n_iters = optimization_iteration_i
+            if ( (optimization_iteration_i % round(n_iters/10)) == 0):
+                fprintf('after %d optimization iterations, training data loss is %f and validation loss is:%f', optimization_iteration_i, training_data_losses(end), validation_data_losses(end) )
+
+        if (n_iters !=0):
+            test_gradient(model, datas.training, wd_coefficient )
+
+
+        pass
+    def test_gradient(self, model, train, wd_coefficient):
+        pass
+    def load(self,file):
+        pass
+    def initial_model(self, n_hid):
+        n_params = (256 + 10)* n_hid
+        as_row_vector = cos(0:(n_params-1))
+        ret = theta_to_model(self,as_row_vector(:)*0.1)
+        return ret
+
+    def model_to_theta(self,model):
+
+        pass
+    def theta_to_model(self,theta):

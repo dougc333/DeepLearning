@@ -105,7 +105,7 @@ class gradient(object)
         E = 1/2*wd_coefficient*theta^2
         return classification_loss + wd_loss
     def d_loss_by_d_model(self,model, data, wd_coefficient):
-        
+
     def load(self,file):
         pass
     def initial_model(self, n_hid):
@@ -115,6 +115,12 @@ class gradient(object)
         return ret
 
     def model_to_theta(self,model):
+        input_to_hid_transpose = transpose(model.input_to_hid)
+        hid_to_class_transpose = transpose(model.hid_to_class)
+        return [input_to_hid_transpose(:), hid_to_class_transpose(:)]
 
-        pass
     def theta_to_model(self,theta):
+        n_hid = size(theta,1)/(256+10)
+        ret.input_to_hid = transpose(reshape(theta(1:256*n_hid)),256,n_hid)
+        ret.hid_to_class = reshape(theta(256*n_hid+1:size(theta,1)),n_hid,10).
+    def classificaiton_performance():

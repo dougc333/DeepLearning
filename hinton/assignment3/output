@@ -1,0 +1,294 @@
+Gradient test passed. That means that the gradient that your code computed is within 0.001% of the gradient that the finite difference approximation computed, so the gradient calculation procedure is probably correct (not certainly, but probably).
+After 7 optimization iterations, training data loss is 2.304804, and validation data loss is 2.304835
+After 14 optimization iterations, training data loss is 2.304718, and validation data loss is 2.304752
+After 21 optimization iterations, training data loss is 2.304651, and validation data loss is 2.304690
+After 28 optimization iterations, training data loss is 2.304599, and validation data loss is 2.304641
+After 35 optimization iterations, training data loss is 2.304555, and validation data loss is 2.304597
+After 42 optimization iterations, training data loss is 2.304488, and validation data loss is 2.304533
+After 49 optimization iterations, training data loss is 2.304421, and validation data loss is 2.304470
+After 56 optimization iterations, training data loss is 2.304368, and validation data loss is 2.304419
+After 63 optimization iterations, training data loss is 2.304323, and validation data loss is 2.304378
+After 70 optimization iterations, training data loss is 2.304283, and validation data loss is 2.304338
+Gradient test passed. That means that the gradient that your code computed is within 0.001% of the gradient that the finite difference approximation computed, so the gradient calculation procedure is probably correct (not certainly, but probably).
+
+The loss on the training data is 2.304283
+The classification error rate on the training data is 0.900000
+
+The loss on the validation data is 2.304338
+The classification error rate on the validation data is 0.900000
+
+The loss on the test data is 2.304352
+The classification error rate on the test data is 0.900000
+Gradient test passed. That means that the gradient that your code computed is within 0.001% of the gradient that the finite difference approximation computed, so the gradient calculation procedure is probably correct (not certainly, but probably).
+After 7 optimization iterations, training data loss is 2.304639, and validation data loss is 2.304678
+After 14 optimization iterations, training data loss is 2.304176, and validation data loss is 2.304240
+After 21 optimization iterations, training data loss is 2.303593, and validation data loss is 2.303693
+After 28 optimization iterations, training data loss is 2.303051, and validation data loss is 2.303182
+After 35 optimization iterations, training data loss is 2.302521, and validation data loss is 2.302673
+After 42 optimization iterations, training data loss is 2.301984, and validation data loss is 2.302161
+After 49 optimization iterations, training data loss is 2.301439, and validation data loss is 2.301647
+After 56 optimization iterations, training data loss is 2.300982, and validation data loss is 2.301213
+After 63 optimization iterations, training data loss is 2.300544, and validation data loss is 2.300804
+After 70 optimization iterations, training data loss is 2.300135, and validation data loss is 2.300422
+Gradient test passed. That means that the gradient that your code computed is within 0.001% of the gradient that the finite difference approximation computed, so the gradient calculation procedure is probably correct (not certainly, but probably).
+
+The loss on the training data is 2.300135
+The classification error rate on the training data is 0.900000
+
+The loss on the validation data is 2.300422
+The classification error rate on the validation data is 0.900000
+
+The loss on the test data is 2.300287
+The classification error rate on the test data is 0.900000
+----------------------Gradient test passed. That means that the gradient that your code computed is within 0.001% of the gradient that the finite difference approximation computed, so the gradient calculation procedure is probably correct (not certainly, but probably).
+After 7 optimization iterations, training data loss is 2.304558, and validation data loss is 2.304603
+After 14 optimization iterations, training data loss is 2.304135, and validation data loss is 2.304200
+After 21 optimization iterations, training data loss is 2.303814, and validation data loss is 2.303901
+After 28 optimization iterations, training data loss is 2.303567, and validation data loss is 2.303668
+After 35 optimization iterations, training data loss is 2.303356, and validation data loss is 2.303457
+After 42 optimization iterations, training data loss is 2.303047, and validation data loss is 2.303163
+After 49 optimization iterations, training data loss is 2.302737, and validation data loss is 2.302875
+After 56 optimization iterations, training data loss is 2.302503, and validation data loss is 2.302648
+After 63 optimization iterations, training data loss is 2.302298, and validation data loss is 2.302465
+After 70 optimization iterations, training data loss is 2.302117, and validation data loss is 2.302284
+Gradient test passed. That means that the gradient that your code computed is within 0.001% of the gradient that the finite difference approximation computed, so the gradient calculation procedure is probably correct (not certainly, but probably).
+
+The loss on the training data is 2.302117
+The classification error rate on the training data is 0.877000
+
+The loss on the validation data is 2.302284
+The classification error rate on the validation data is 0.882000
+
+The loss on the test data is 2.302230
+The classification error rate on the test data is 0.881222
+Gradient test passed. That means that the gradient that your code computed is within 0.001% of the gradient that the finite difference approximation computed, so the gradient calculation procedure is probably correct (not certainly, but probably).
+After 7 optimization iterations, training data loss is 2.303789, and validation data loss is 2.303878
+After 14 optimization iterations, training data loss is 2.301690, and validation data loss is 2.301905
+After 21 optimization iterations, training data loss is 2.299145, and validation data loss is 2.299539
+After 28 optimization iterations, training data loss is 2.296942, and validation data loss is 2.297490
+After 35 optimization iterations, training data loss is 2.294811, and validation data loss is 2.295462
+After 42 optimization iterations, training data loss is 2.292641, and validation data loss is 2.293420
+After 49 optimization iterations, training data loss is 2.290345, and validation data loss is 2.291280
+After 56 optimization iterations, training data loss is 2.288314, and validation data loss is 2.289370
+After 63 optimization iterations, training data loss is 2.286208, and validation data loss is 2.287415
+After 70 optimization iterations, training data loss is 2.284022, and validation data loss is 2.285377
+Gradient test passed. That means that the gradient that your code computed is within 0.001% of the gradient that the finite difference approximation computed, so the gradient calculation procedure is probably correct (not certainly, but probably).
+
+The loss on the training data is 2.284022
+The classification error rate on the training data is 0.685000
+
+The loss on the validation data is 2.285377
+The classification error rate on the validation data is 0.702000
+
+The loss on the test data is 2.284538
+The classification error rate on the test data is 0.693444
+------------------------Gradient test passed. That means that the gradient that your code computed is within 0.001% of the gradient that the finite difference approximation computed, so the gradient calculation procedure is probably correct (not certainly, but probably).
+After 7 optimization iterations, training data loss is 2.303434, and validation data loss is 2.303552
+After 14 optimization iterations, training data loss is 2.301513, and validation data loss is 2.301734
+After 21 optimization iterations, training data loss is 2.300134, and validation data loss is 2.300460
+After 28 optimization iterations, training data loss is 2.299066, and validation data loss is 2.299465
+After 35 optimization iterations, training data loss is 2.298130, and validation data loss is 2.298527
+After 42 optimization iterations, training data loss is 2.296891, and validation data loss is 2.297366
+After 49 optimization iterations, training data loss is 2.295657, and validation data loss is 2.296239
+After 56 optimization iterations, training data loss is 2.294753, and validation data loss is 2.295373
+After 63 optimization iterations, training data loss is 2.293834, and validation data loss is 2.294565
+After 70 optimization iterations, training data loss is 2.292967, and validation data loss is 2.293696
+Gradient test passed. That means that the gradient that your code computed is within 0.001% of the gradient that the finite difference approximation computed, so the gradient calculation procedure is probably correct (not certainly, but probably).
+
+The loss on the training data is 2.292967
+The classification error rate on the training data is 0.868000
+
+The loss on the validation data is 2.293696
+The classification error rate on the validation data is 0.871000
+
+The loss on the test data is 2.293294
+The classification error rate on the test data is 0.872111
+Gradient test passed. That means that the gradient that your code computed is within 0.001% of the gradient that the finite difference approximation computed, so the gradient calculation procedure is probably correct (not certainly, but probably).
+After 7 optimization iterations, training data loss is 2.300799, and validation data loss is 2.301142
+After 14 optimization iterations, training data loss is 2.292746, and validation data loss is 2.293723
+After 21 optimization iterations, training data loss is 2.281059, and validation data loss is 2.282969
+After 28 optimization iterations, training data loss is 2.267741, and validation data loss is 2.270569
+After 35 optimization iterations, training data loss is 2.249138, and validation data loss is 2.252688
+After 42 optimization iterations, training data loss is 2.221463, and validation data loss is 2.226078
+After 49 optimization iterations, training data loss is 2.180550, and validation data loss is 2.186615
+After 56 optimization iterations, training data loss is 2.131853, and validation data loss is 2.139011
+After 63 optimization iterations, training data loss is 2.073963, and validation data loss is 2.082784
+After 70 optimization iterations, training data loss is 2.008606, and validation data loss is 2.018598
+Gradient test passed. That means that the gradient that your code computed is within 0.001% of the gradient that the finite difference approximation computed, so the gradient calculation procedure is probably correct (not certainly, but probably).
+
+The loss on the training data is 2.008606
+The classification error rate on the training data is 0.731000
+
+The loss on the validation data is 2.018598
+The classification error rate on the validation data is 0.749000
+
+The loss on the test data is 2.008179
+The classification error rate on the test data is 0.724778
+-------------------------Gradient test passed. That means that the gradient that your code computed is within 0.001% of the gradient that the finite difference approximation computed, so the gradient calculation procedure is probably correct (not certainly, but probably).
+After 7 optimization iterations, training data loss is 2.300302, and validation data loss is 2.300705
+After 14 optimization iterations, training data loss is 2.293937, and validation data loss is 2.294740
+After 21 optimization iterations, training data loss is 2.289019, and validation data loss is 2.290277
+After 28 optimization iterations, training data loss is 2.283881, and validation data loss is 2.285473
+After 35 optimization iterations, training data loss is 2.278753, and validation data loss is 2.280293
+After 42 optimization iterations, training data loss is 2.271181, and validation data loss is 2.273147
+After 49 optimization iterations, training data loss is 2.261879, and validation data loss is 2.264412
+After 56 optimization iterations, training data loss is 2.252678, and validation data loss is 2.255532
+After 63 optimization iterations, training data loss is 2.240684, and validation data loss is 2.244305
+After 70 optimization iterations, training data loss is 2.228969, and validation data loss is 2.232504
+Gradient test passed. That means that the gradient that your code computed is within 0.001% of the gradient that the finite difference approximation computed, so the gradient calculation procedure is probably correct (not certainly, but probably).
+
+The loss on the training data is 2.228969
+The classification error rate on the training data is 0.671000
+
+The loss on the validation data is 2.232504
+The classification error rate on the validation data is 0.697000
+
+The loss on the test data is 2.229988
+The classification error rate on the test data is 0.679333
+Gradient test passed. That means that the gradient that your code computed is within 0.001% of the gradient that the finite difference approximation computed, so the gradient calculation procedure is probably correct (not certainly, but probably).
+After 7 optimization iterations, training data loss is 2.295737, and validation data loss is 2.297079
+After 14 optimization iterations, training data loss is 2.251762, and validation data loss is 2.255723
+After 21 optimization iterations, training data loss is 2.145115, and validation data loss is 2.154931
+After 28 optimization iterations, training data loss is 1.981143, and validation data loss is 1.996449
+After 35 optimization iterations, training data loss is 1.789563, and validation data loss is 1.804704
+After 42 optimization iterations, training data loss is 1.590697, and validation data loss is 1.610837
+After 49 optimization iterations, training data loss is 1.438732, and validation data loss is 1.467562
+After 56 optimization iterations, training data loss is 1.328664, and validation data loss is 1.353371
+After 63 optimization iterations, training data loss is 1.176366, and validation data loss is 1.204815
+After 70 optimization iterations, training data loss is 1.083429, and validation data loss is 1.122502
+Gradient test passed. That means that the gradient that your code computed is within 0.001% of the gradient that the finite difference approximation computed, so the gradient calculation procedure is probably correct (not certainly, but probably).
+
+The loss on the training data is 1.083429
+The classification error rate on the training data is 0.310000
+
+The loss on the validation data is 1.122502
+The classification error rate on the validation data is 0.358000
+
+The loss on the test data is 1.097623
+The classification error rate on the test data is 0.348889
+--------------------------Gradient test passed. That means that the gradient that your code computed is within 0.001% of the gradient that the finite difference approximation computed, so the gradient calculation procedure is probably correct (not certainly, but probably).
+After 7 optimization iterations, training data loss is 2.286900, and validation data loss is 2.288569
+After 14 optimization iterations, training data loss is 2.264119, and validation data loss is 2.266822
+After 21 optimization iterations, training data loss is 2.225649, and validation data loss is 2.230717
+After 28 optimization iterations, training data loss is 2.148046, and validation data loss is 2.155359
+After 35 optimization iterations, training data loss is 2.056451, and validation data loss is 2.062597
+After 42 optimization iterations, training data loss is 1.931122, and validation data loss is 1.939394
+After 49 optimization iterations, training data loss is 1.812229, and validation data loss is 1.822121
+After 56 optimization iterations, training data loss is 1.765389, and validation data loss is 1.779205
+After 63 optimization iterations, training data loss is 1.662347, and validation data loss is 1.671865
+After 70 optimization iterations, training data loss is 1.598844, and validation data loss is 1.608040
+Gradient test passed. That means that the gradient that your code computed is within 0.001% of the gradient that the finite difference approximation computed, so the gradient calculation procedure is probably correct (not certainly, but probably).
+
+The loss on the training data is 1.598844
+The classification error rate on the training data is 0.587000
+
+The loss on the validation data is 1.608040
+The classification error rate on the validation data is 0.600000
+
+The loss on the test data is 1.596059
+The classification error rate on the test data is 0.584444
+Gradient test passed. That means that the gradient that your code computed is within 0.001% of the gradient that the finite difference approximation computed, so the gradient calculation procedure is probably correct (not certainly, but probably).
+After 7 optimization iterations, training data loss is 2.284520, and validation data loss is 2.286177
+After 14 optimization iterations, training data loss is 2.199529, and validation data loss is 2.209180
+After 21 optimization iterations, training data loss is 2.133342, and validation data loss is 2.148875
+After 28 optimization iterations, training data loss is 2.130313, and validation data loss is 2.143844
+After 35 optimization iterations, training data loss is 2.067597, and validation data loss is 2.084823
+After 42 optimization iterations, training data loss is 1.884142, and validation data loss is 1.925690
+After 49 optimization iterations, training data loss is 2.127405, and validation data loss is 2.127227
+After 56 optimization iterations, training data loss is 1.924666, and validation data loss is 1.953953
+After 63 optimization iterations, training data loss is 2.090098, and validation data loss is 2.139465
+After 70 optimization iterations, training data loss is 2.018723, and validation data loss is 2.041323
+Gradient test passed. That means that the gradient that your code computed is within 0.001% of the gradient that the finite difference approximation computed, so the gradient calculation procedure is probably correct (not certainly, but probably).
+
+The loss on the training data is 2.018723
+The classification error rate on the training data is 0.761000
+
+The loss on the validation data is 2.041323
+The classification error rate on the validation data is 0.752000
+
+The loss on the test data is 2.038473
+The classification error rate on the test data is 0.755333
+---------------------------Gradient test passed. That means that the gradient that your code computed is within 0.001% of the gradient that the finite difference approximation computed, so the gradient calculation procedure is probably correct (not certainly, but probably).
+After 7 optimization iterations, training data loss is 2.301886, and validation data loss is 2.302168
+After 14 optimization iterations, training data loss is 2.301787, and validation data loss is 2.302090
+After 21 optimization iterations, training data loss is 2.301779, and validation data loss is 2.302084
+After 28 optimization iterations, training data loss is 2.301735, and validation data loss is 2.302054
+After 35 optimization iterations, training data loss is 2.301717, and validation data loss is 2.302046
+After 42 optimization iterations, training data loss is 2.301608, and validation data loss is 2.301971
+After 49 optimization iterations, training data loss is 2.301600, and validation data loss is 2.301954
+After 56 optimization iterations, training data loss is 2.301310, and validation data loss is 2.301756
+After 63 optimization iterations, training data loss is 2.301323, and validation data loss is 2.301742
+After 70 optimization iterations, training data loss is 2.301322, and validation data loss is 2.301741
+Gradient test passed. That means that the gradient that your code computed is within 0.001% of the gradient that the finite difference approximation computed, so the gradient calculation procedure is probably correct (not certainly, but probably).
+
+The loss on the training data is 2.301322
+The classification error rate on the training data is 0.900000
+
+The loss on the validation data is 2.301741
+The classification error rate on the validation data is 0.900000
+
+The loss on the test data is 2.302015
+The classification error rate on the test data is 0.900000
+Gradient test passed. That means that the gradient that your code computed is within 0.001% of the gradient that the finite difference approximation computed, so the gradient calculation procedure is probably correct (not certainly, but probably).
+After 7 optimization iterations, training data loss is 2.302585, and validation data loss is 2.302585
+After 14 optimization iterations, training data loss is 2.302585, and validation data loss is 2.302585
+After 21 optimization iterations, training data loss is 2.302585, and validation data loss is 2.302585
+After 28 optimization iterations, training data loss is 2.302585, and validation data loss is 2.302585
+After 35 optimization iterations, training data loss is 2.302585, and validation data loss is 2.302585
+After 42 optimization iterations, training data loss is 2.302585, and validation data loss is 2.302585
+After 49 optimization iterations, training data loss is 2.302585, and validation data loss is 2.302585
+After 56 optimization iterations, training data loss is 2.302585, and validation data loss is 2.302585
+After 63 optimization iterations, training data loss is 2.302585, and validation data loss is 2.302585
+After 70 optimization iterations, training data loss is 2.302585, and validation data loss is 2.302585
+Gradient test passed. That means that the gradient that your code computed is within 0.001% of the gradient that the finite difference approximation computed, so the gradient calculation procedure is probably correct (not certainly, but probably).
+
+The loss on the training data is 2.302585
+The classification error rate on the training data is 0.886000
+
+The loss on the validation data is 2.302585
+The classification error rate on the validation data is 0.891000
+
+The loss on the test data is 2.302585
+The classification error rate on the test data is 0.881000
+----------------------------Gradient test passed. That means that the gradient that your code computed is within 0.001% of the gradient that the finite difference approximation computed, so the gradient calculation procedure is probably correct (not certainly, but probably).
+After 7 optimization iterations, training data loss is 2.302585, and validation data loss is 2.302585
+After 14 optimization iterations, training data loss is 2.302585, and validation data loss is 2.302585
+After 21 optimization iterations, training data loss is 2.302585, and validation data loss is 2.302585
+After 28 optimization iterations, training data loss is 2.302585, and validation data loss is 2.302585
+After 35 optimization iterations, training data loss is 2.302585, and validation data loss is 2.302585
+After 42 optimization iterations, training data loss is 2.302585, and validation data loss is 2.302585
+After 49 optimization iterations, training data loss is 2.302585, and validation data loss is 2.302585
+After 56 optimization iterations, training data loss is 2.302585, and validation data loss is 2.302585
+After 63 optimization iterations, training data loss is 2.302585, and validation data loss is 2.302585
+After 70 optimization iterations, training data loss is 2.302585, and validation data loss is 2.302585
+Gradient test passed. That means that the gradient that your code computed is within 0.001% of the gradient that the finite difference approximation computed, so the gradient calculation procedure is probably correct (not certainly, but probably).
+
+The loss on the training data is 2.302585
+The classification error rate on the training data is 0.904000
+
+The loss on the validation data is 2.302585
+The classification error rate on the validation data is 0.914000
+
+The loss on the test data is 2.302585
+The classification error rate on the test data is 0.915000
+Gradient test passed. That means that the gradient that your code computed is within 0.001% of the gradient that the finite difference approximation computed, so the gradient calculation procedure is probably correct (not certainly, but probably).
+After 7 optimization iterations, training data loss is 2.302585, and validation data loss is 2.302585
+After 14 optimization iterations, training data loss is 2.302585, and validation data loss is 2.302585
+After 21 optimization iterations, training data loss is 2.302585, and validation data loss is 2.302585
+After 28 optimization iterations, training data loss is 2.302585, and validation data loss is 2.302585
+After 35 optimization iterations, training data loss is 2.302585, and validation data loss is 2.302585
+After 42 optimization iterations, training data loss is 2.302585, and validation data loss is 2.302585
+After 49 optimization iterations, training data loss is 2.302585, and validation data loss is 2.302585
+After 56 optimization iterations, training data loss is 2.302585, and validation data loss is 2.302585
+After 63 optimization iterations, training data loss is 2.302585, and validation data loss is 2.302585
+After 70 optimization iterations, training data loss is 2.302585, and validation data loss is 2.302585
+Gradient test passed. That means that the gradient that your code computed is within 0.001% of the gradient that the finite difference approximation computed, so the gradient calculation procedure is probably correct (not certainly, but probably).
+
+The loss on the training data is 2.302585
+The classification error rate on the training data is 0.896000
+
+The loss on the validation data is 2.302585
+The classification error rate on the validation data is 0.891000
+
+The loss on the test data is 2.302585
+The classification error rate on the test data is 0.890778

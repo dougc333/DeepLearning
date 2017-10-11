@@ -1,7 +1,7 @@
 function a3(wd_coefficient, n_hid, n_iters, learning_rate, momentum_multiplier, do_early_stopping, mini_batch_size)
   warning('error', 'Octave:broadcast');
   if exist('page_output_immediately'), page_output_immediately(1); end
-  %more off;
+  more off;
   model = initial_model(n_hid);
   from_data_file = load('data.mat');
   datas = from_data_file.data;
@@ -145,7 +145,6 @@ function ret = d_loss_by_d_model(model, data, wd_coefficient)
   % The returned object is supposed to be exactly like parameter <model>, i.e. it has fields ret.input_to_hid and ret.hid_to_class. However, the contents of those matrices are gradients (d loss by d model parameter), instead of model parameters.
 	 
   % This is the only function that you're expected to change. Right now, it just returns a lot of zeros, which is obviously not the correct output. Your job is to replace that by a correct computation.
-<<<<<<< HEAD
   
   m = size(data.inputs,2);
   hid_input = model.input_to_hid * data.inputs;
@@ -161,10 +160,9 @@ function ret = d_loss_by_d_model(model, data, wd_coefficient)
   
   ret.input_to_hid = (1 / m) .* (delta_2 * data.inputs') + wd_coefficient.* model.input_to_hid;
   ret.hid_to_class =(1 / m) .* (delta_3 * hid_output') + wd_coefficient.* model.hid_to_class;
-=======
-  ret.input_to_hid = (1 / n_training_cases) .* (delta_2 * data.inputs') + wd_coefficient.* model.input_to_hid;
-  ret.hid_to_class =(1 / n_training_cases) .* (delta_3 * hid_output') + wd_coefficient.* model.hid_to_class;
->>>>>>> 6401ba01b42d58480f07371bceb3ede6fb55e533
+  %ret.input_to_hid = (1 / n_training_cases) .* (delta_2 * data.inputs') + wd_coefficient.* model.input_to_hid;
+  %ret.hid_to_class =(1 / n_training_cases) .* (delta_3 * hid_output') + wd_coefficient.* model.hid_to_class;
+
 end
 
 function ret = model_to_theta(model)

@@ -6,6 +6,7 @@ function a3(wd_coefficient, n_hid, n_iters, learning_rate, momentum_multiplier, 
   from_data_file = load('data.mat');
   datas = from_data_file.data;
   n_training_cases = size(datas.training.inputs, 2);
+  fprintf('n_training_cases should be 1k:%d', n_training_cases);
   if n_iters ~= 0, test_gradient(model, datas.training, wd_coefficient); end
 
   % optimization
@@ -20,7 +21,7 @@ function a3(wd_coefficient, n_hid, n_iters, learning_rate, momentum_multiplier, 
   end
   for optimization_iteration_i = 1:n_iters,
     model = theta_to_model(theta);
-    
+    fprintf('optimization_iteration_i:%d',optimization_iteration_i);
     training_batch_start = mod((optimization_iteration_i-1) * mini_batch_size, n_training_cases)+1;
     training_batch.inputs = datas.training.inputs(:, training_batch_start : training_batch_start + mini_batch_size - 1);
     training_batch.targets = datas.training.targets(:, training_batch_start : training_batch_start + mini_batch_size - 1);
@@ -60,6 +61,7 @@ function a3(wd_coefficient, n_hid, n_iters, learning_rate, momentum_multiplier, 
   datas2 = {datas.training, datas.validation, datas.test};
   data_names = {'training', 'validation', 'test'};
   for data_i = 1:3,
+    fprintf('data_i:%d\n',data_i)
     data = datas2{data_i};
     data_name = data_names{data_i};
     fprintf('learning_rate:%f momentum_multiplier:%f\n', learning_rate,momentum_multiplier)
@@ -72,6 +74,7 @@ function a3(wd_coefficient, n_hid, n_iters, learning_rate, momentum_multiplier, 
 end
 
 function test_gradient(model, data, wd_coefficient)
+  fprintf('test gradient\n');
   base_theta = model_to_theta(model);
   h = 1e-2;
   correctness_threshold = 1e-5;
@@ -119,7 +122,17 @@ function ret = loss(model, data, wd_coefficient)
   hid_input = model.input_to_hid * data.inputs; % input to the hidden units, i.e. before the logistic. size: <number of hidden units> by <number of data cases>
   hid_output = logistic(hid_input); % output of the hidden units, i.e. after the logistic. size: <number of hidden units> by <number of data cases>
   class_input = model.hid_to_class * hid_output; % input to the components of the softmax. size: <number of classes, i.e. 10> by <number of data cases>
+  fprintf('loss model_input_to_hid:');
+  disp(model.input_to_hid);
+  fprintf('loss model_to_class:'); 
+  disp(model.hid_to_class)
   
+  fprintf('hid_input rows:%d cols:%d\n',rows(hid_input),columns(hid_input)); 
+  #disp(hid_input)
+  fprintf('hid_output rows:%d cols:%d\n',rows(hid_output),columns(hid_output)); 
+  #disp(hid_output)
+  fprintf('class_input rows:%d cols:%d\n',rows(class_input),columns(class_input)); 
+  #disp(class_input)
   % The following three lines of code implement the softmax.
   % However, it's written differently from what the lectures say.
   % In the lectures, a softmax is described using an exponential divided by a sum of exponentials.
@@ -128,11 +141,16 @@ function ret = loss(model, data, wd_coefficient)
   % The exponential in the lectures can lead to really big numbers, which are fine in mathematical equations, but can lead to all sorts of problems in Octave.
   % Octave isn't well prepared to deal with really large numbers, like the number 10 to the power 1000. Computations with such numbers get unstable, so we avoid them.
   class_normalizer = log_sum_exp_over_rows(class_input); % log(sum(exp of class_input)) is what we subtract to get properly normalized log class probabilities. size: <1> by <number of data cases>
+  fprintf('class_normalizer:%d x %d\n', rows(class_normalizer),columns(class_normalizer));
   log_class_prob = class_input - repmat(class_normalizer, [size(class_input, 1), 1]); % log of probability of each class. size: <number of classes, i.e. 10> by <number of data cases>
+  fprintf('log_class_prob:%dx%d\n', rows(log_class_prob),columns(log_class_prob));
   class_prob = exp(log_class_prob); % probability of each class. Each column (i.e. each case) sums to 1. size: <number of classes, i.e. 10> by <number of data cases>
-  
+  fprintf('');
+  fprintf('class_normalizer:%dx%d\n',columns(class_normalizer),rows(class_normalizer))
   classification_loss = -mean(sum(log_class_prob .* data.targets, 1)); % select the right log class probability using that sum; then take the mean over all data cases.
+  fprintf("classification_loss:%f\n",classification_loss)
   wd_loss = sum(model_to_theta(model).^2)/2*wd_coefficient; % weight decay loss. very straightforward: E = 1/2 * wd_coeffecient * theta^2
+  fprintf('wd_loss:%f\n',wd_loss)
   ret = classification_loss + wd_loss;
 end
 
@@ -175,6 +193,7 @@ end
 function ret = theta_to_model(theta)
   % This function takes a model (or gradient) in the form of one long vector (maybe produced by model_to_theta), and restores it to the structure format, i.e. with fields .input_to_hid and .hid_to_class, both matrices.
   n_hid = size(theta, 1) / (256+10);
+  fprintf('theta_to_model n_hid:%d\n',n_hid);
   ret.input_to_hid = transpose(reshape(theta(1: 256*n_hid), 256, n_hid));
   ret.hid_to_class = reshape(theta(256 * n_hid + 1 : size(theta,1)), n_hid, 10).';
 end
@@ -182,7 +201,10 @@ end
 function ret = initial_model(n_hid)
   n_params = (256+10) * n_hid;
   as_row_vector = cos(0:(n_params-1));
+  fprintf('n_hid:%d n_params:%d as_row_vector:%dx%d numel:%d\n',n_hid, n_params, rows(as_row_vector),columns(as_row_vector),numel(as_row_vector));
+  
   ret = theta_to_model(as_row_vector(:) * 0.1); % We don't use random initialization, for this assignment. This way, everybody will get the same results.
+  fprintf('ret $%dx%d',rows(ret),columns(ret))
 end
 
 function ret = classification_performance(model, data)

@@ -1,1 +1,0 @@
-function ret = log_sum_exp_over_rows(a)  % This computes log(sum(exp(a), 1)) in a numerically stable way  maxs_small = max(a, [], 1);  fprintf('maxs_small %d,%d\n',columns(maxs_small),rows(maxs_small));  maxs_big = repmat(maxs_small, [size(a, 1), 1]);  fprintf('maxs_big %d,%d\n',columns(maxs_big),rows(maxs_big));  ret = log(sum(exp(a - maxs_big), 1)) + maxs_small;end

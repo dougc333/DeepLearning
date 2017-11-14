@@ -1,1 +1,0 @@
- model = initial_model(n_hid); from_data_file = load('data.mat'); datas = from_data_file.data; loss(model, datas.training, wd_coefficient 

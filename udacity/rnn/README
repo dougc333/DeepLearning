@@ -1,0 +1,8 @@
+Vanilla RNN when unrolled becomes a CNN
+
+seq2seq requires a vector input and a vector output. The vectors are input sequences and predicted output sequneces. These can't be unrolled into a CNN b/c they use more complicated cells with memory or forgetfullness
+
+One issue is how BackPropagation through time is treated in the cases beyond vanilla RNNs. There are normalization strategies
+including gradient clipping for overflow and xx for vanishiing gradients.
+
+ 

@@ -1,0 +1,3 @@
+ramdom vars
+conditionalprob
+

@@ -1,0 +1,9 @@
+use python3.6 -m pip install keras
+instead of pip3 install keras. 
+
+There are different python3 versions. 3.5 and 3.6. 
+if you use pip3 you get keras installed under python3.5 but you cant get under 3.6. 
+
+To get under 3.6 use python3.6 -m pip install PACKAGE
+
+

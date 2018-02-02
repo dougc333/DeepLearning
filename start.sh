@@ -1,4 +1,4 @@
 #!/bin/bash
 
-ipython notebook --no-browser --port=8889
+ipython notebook --no-browser --port=8888
 

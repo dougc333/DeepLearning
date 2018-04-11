@@ -1,0 +1,1213 @@
+commit df808623db5617ceb85306a938c5dc54c4a8fa4c
+Author: dougc333 <dougc@stanfordalumni.org>
+Date:   Wed Mar 21 22:23:18 2018 -0700
+
+    clean cuda
+
+ delete mode 100644 cuda/.ipynb_checkpoints/Untitled-checkpoint.ipynb
+ delete mode 100644 cuda/README.md
+ delete mode 100644 cuda/Untitled.ipynb
+ delete mode 100644 cuda/test.cu
+ delete mode 100644 cuda/test1.cu
+
+commit c597300d09f50585eb3b4db2e0e1527d2c422995
+Author: dougc333 <dougc@stanfordalumni.org>
+Date:   Wed Mar 21 22:21:55 2018 -0700
+
+    add
+
+ delete mode 100644 fastai/.ipynb_checkpoints/lecture1-checkpoint.ipynb
+ delete mode 100644 fastai/README.md
+ delete mode 160000 fastai/fastai
+ delete mode 100644 fastai/lecture1.ipynb
+ delete mode 100644 kaggle/.idea/inspectionProfiles/profiles_settings.xml
+ delete mode 100644 kaggle/.idea/kaggle.iml
+ delete mode 100644 kaggle/.idea/misc.xml
+ delete mode 100644 kaggle/.idea/modules.xml
+ delete mode 100644 kaggle/.idea/workspace.xml
+ delete mode 100644 kaggle/.ipynb_checkpoints/ROI_test-checkpoint.ipynb
+ delete mode 100644 kaggle/.ipynb_checkpoints/boundary_tree-checkpoint.ipynb
+ delete mode 100644 kaggle/.ipynb_checkpoints/deepforest-checkpoint.ipynb
+ delete mode 100644 kaggle/.ipynb_checkpoints/kaggle_lenet32-checkpoint.ipynb
+ delete mode 100644 kaggle/.ipynb_checkpoints/keras_vgg16-checkpoint.ipynb
+ delete mode 100644 kaggle/.ipynb_checkpoints/misc-checkpoint.ipynb
+ delete mode 100644 kaggle/.ipynb_checkpoints/mnist_test-checkpoint.ipynb
+ delete mode 100644 kaggle/.ipynb_checkpoints/otsu-checkpoint.ipynb
+ delete mode 100644 kaggle/.ipynb_checkpoints/resnet50-checkpoint.ipynb
+ delete mode 100644 kaggle/.ipynb_checkpoints/visualize-checkpoint.ipynb
+ delete mode 100644 kaggle/README.md
+ delete mode 100644 kaggle/ROI_test.ipynb
+ delete mode 100755 kaggle/jup.sh
+ delete mode 100644 kaggle/kaggle.py
+ delete mode 100644 kaggle/kaggle_lenet32.ipynb
+ delete mode 100644 kaggle/kaggle_lenet_224.ipynb
+ delete mode 100644 kaggle/keras_vgg16.ipynb
+ delete mode 100644 kaggle/misc.ipynb
+ delete mode 100644 kaggle/mnist_test.ipynb
+ delete mode 100644 kaggle/model.json
+ delete mode 100644 kaggle/resnet50.ipynb
+ delete mode 160000 kaggle/rossmann/entity-embedding-rossmann
+ delete mode 100644 kaggle/seizure/README.md
+ delete mode 100644 kaggle/solution_stg1_release.csv
+ delete mode 100644 kaggle/spookywriter/README.md
+ delete mode 100755 kaggle/ssh.sh
+ delete mode 100644 kaggle/untitled/.idea/inspectionProfiles/profiles_settings.xml
+ delete mode 100644 kaggle/untitled/.idea/misc.xml
+ delete mode 100644 kaggle/untitled/.idea/modules.xml
+ delete mode 100644 kaggle/untitled/.idea/untitled.iml
+ delete mode 100644 kaggle/untitled/.idea/workspace.xml
+ delete mode 100644 kaggle/untitled/text
+ delete mode 100644 kaggle/visualize.ipynb
+
+commit 4fde7aebdf5cab388a7b8ff5f6d0ff5d30fc77ed
+Author: dougc333 <dougc@stanfordalumni.org>
+Date:   Sun Mar 18 19:15:16 2018 -0700
+
+    add
+
+ delete mode 100644 miniflow/.idea/miniflow.iml
+ delete mode 100644 miniflow/.idea/misc.xml
+ delete mode 100644 miniflow/.idea/modules.xml
+ delete mode 100644 miniflow/.idea/workspace.xml
+ delete mode 100644 miniflow/.ipynb_checkpoints/graphdecisionboundary-checkpoint.ipynb
+ delete mode 100644 miniflow/.ipynb_checkpoints/linearneuronlearnandgate-checkpoint.ipynb
+ delete mode 100644 miniflow/.ipynb_checkpoints/matlab-checkpoint.ipynb
+ delete mode 100644 miniflow/Add.py
+ delete mode 100644 miniflow/Input.py
+ delete mode 100644 miniflow/Node.py
+ delete mode 100644 miniflow/README.md
+ delete mode 100644 miniflow/__pycache__/Node.cpython-35.pyc
+ delete mode 100644 miniflow/graphdecisionboundary.ipynb
+ delete mode 100644 miniflow/linearneuronlearnandgate.ipynb
+ delete mode 100644 miniflow/miniflow.pages
+ delete mode 100644 run_velvet.sh
+
+commit 14952da39d2c3161aa8b724a5459adb19d082958
+Author: dougc333 <dougc@stanfordalumni.org>
+Date:   Mon Feb 12 17:01:33 2018 -0800
+
+    clean cs231_rnn
+
+ delete mode 100644 rnn_cs231n/.ipynb_checkpoints/keras_imdbsentiment-checkpoint.ipynb
+ delete mode 100644 rnn_cs231n/keras_imdbsentiment.ipynb
+
+commit c9b16d5c551a0986aded69fa4d7c9d83960e7966
+Author: dc <dougchang25@gmail.com>
+Date:   Mon Feb 12 13:13:26 2018 -0800
+
+    clean
+
+ delete mode 100644 cs246/Readme.txt
+ delete mode 100644 cs246/hw3-recommendations.zip
+ delete mode 100644 cs246/ratings.train.txt
+ delete mode 100644 cs246/ratings.val.txt
+ delete mode 160000 fairseq
+ delete mode 100644 keras-attention/.idea/inspectionProfiles/profiles_settings.xml
+ delete mode 100644 keras-attention/.idea/keras-attention.iml
+ delete mode 100644 keras-attention/.idea/misc.xml
+ delete mode 100644 keras-attention/.idea/modules.xml
+ delete mode 100644 keras-attention/.idea/workspace.xml
+ delete mode 100644 keras-attention/data/generator.py
+ delete mode 100644 keras-attention/data/reader.py
+ delete mode 100644 keras-attention/data/sample_human_vocab.json
+ delete mode 100644 keras-attention/data/sample_machine_vocab.json
+ delete mode 100644 keras-attention/models/NMT.py
+ delete mode 100644 keras-attention/models/custom_recurrents.py
+ delete mode 100644 keras-attention/run.py
+ delete mode 100644 mxnet/.ipynb_checkpoints/Untitled-checkpoint.ipynb
+ delete mode 100644 mxnet/.ipynb_checkpoints/mxnet-checkpoint.ipynb
+ delete mode 100644 mxnet/mxnet.ipynb
+ delete mode 120000 mxnet/mxnet/bin/python
+ delete mode 120000 mxnet/mxnet/bin/python3
+ delete mode 100755 mxnet/mxnet/bin/python3.5
+ delete mode 120000 mxnet/mxnet/include/python3.5m
+ delete mode 120000 mxnet/mxnet/lib/python3.5/__future__.py
+ delete mode 120000 mxnet/mxnet/lib/python3.5/_bootlocale.py
+ delete mode 120000 mxnet/mxnet/lib/python3.5/_collections_abc.py
+ delete mode 120000 mxnet/mxnet/lib/python3.5/_dummy_thread.py
+ delete mode 120000 mxnet/mxnet/lib/python3.5/_weakrefset.py
+ delete mode 120000 mxnet/mxnet/lib/python3.5/abc.py
+ delete mode 120000 mxnet/mxnet/lib/python3.5/base64.py
+ delete mode 120000 mxnet/mxnet/lib/python3.5/bisect.py
+ delete mode 120000 mxnet/mxnet/lib/python3.5/codecs.py
+ delete mode 120000 mxnet/mxnet/lib/python3.5/collections
+ delete mode 120000 mxnet/mxnet/lib/python3.5/config-3.5m
+ delete mode 120000 mxnet/mxnet/lib/python3.5/copy.py
+ delete mode 120000 mxnet/mxnet/lib/python3.5/copyreg.py
+ delete mode 120000 mxnet/mxnet/lib/python3.5/encodings
+ delete mode 120000 mxnet/mxnet/lib/python3.5/fnmatch.py
+ delete mode 120000 mxnet/mxnet/lib/python3.5/functools.py
+ delete mode 120000 mxnet/mxnet/lib/python3.5/genericpath.py
+ delete mode 120000 mxnet/mxnet/lib/python3.5/hashlib.py
+ delete mode 120000 mxnet/mxnet/lib/python3.5/heapq.py
+ delete mode 120000 mxnet/mxnet/lib/python3.5/hmac.py
+ delete mode 120000 mxnet/mxnet/lib/python3.5/imp.py
+ delete mode 120000 mxnet/mxnet/lib/python3.5/importlib
+ delete mode 120000 mxnet/mxnet/lib/python3.5/io.py
+ delete mode 120000 mxnet/mxnet/lib/python3.5/keyword.py
+ delete mode 120000 mxnet/mxnet/lib/python3.5/lib-dynload
+ delete mode 120000 mxnet/mxnet/lib/python3.5/linecache.py
+ delete mode 120000 mxnet/mxnet/lib/python3.5/locale.py
+ delete mode 100644 mxnet/mxnet/lib/python3.5/no-global-site-packages.txt
+ delete mode 120000 mxnet/mxnet/lib/python3.5/ntpath.py
+ delete mode 120000 mxnet/mxnet/lib/python3.5/operator.py
+ delete mode 100644 mxnet/mxnet/lib/python3.5/orig-prefix.txt
+ delete mode 120000 mxnet/mxnet/lib/python3.5/os.py
+ delete mode 120000 mxnet/mxnet/lib/python3.5/plat-darwin
+ delete mode 120000 mxnet/mxnet/lib/python3.5/posixpath.py
+ delete mode 120000 mxnet/mxnet/lib/python3.5/random.py
+ delete mode 120000 mxnet/mxnet/lib/python3.5/re.py
+ delete mode 120000 mxnet/mxnet/lib/python3.5/reprlib.py
+ delete mode 120000 mxnet/mxnet/lib/python3.5/rlcompleter.py
+ delete mode 120000 mxnet/mxnet/lib/python3.5/shutil.py
+ delete mode 100644 mxnet/mxnet/lib/python3.5/site.py
+ delete mode 120000 mxnet/mxnet/lib/python3.5/sre_compile.py
+ delete mode 120000 mxnet/mxnet/lib/python3.5/sre_constants.py
+ delete mode 120000 mxnet/mxnet/lib/python3.5/sre_parse.py
+ delete mode 120000 mxnet/mxnet/lib/python3.5/stat.py
+ delete mode 120000 mxnet/mxnet/lib/python3.5/struct.py
+ delete mode 120000 mxnet/mxnet/lib/python3.5/tarfile.py
+ delete mode 120000 mxnet/mxnet/lib/python3.5/tempfile.py
+ delete mode 120000 mxnet/mxnet/lib/python3.5/token.py
+ delete mode 120000 mxnet/mxnet/lib/python3.5/tokenize.py
+ delete mode 120000 mxnet/mxnet/lib/python3.5/types.py
+ delete mode 120000 mxnet/mxnet/lib/python3.5/warnings.py
+ delete mode 120000 mxnet/mxnet/lib/python3.5/weakref.py
+ delete mode 100644 reinforce/imitationlearning/README.md
+
+commit 916ebc01eb5399d5e6039f463b5e703090442543
+Author: dc <dougchang25@gmail.com>
+Date:   Fri Feb 9 12:41:48 2018 -0800
+
+    add submodule
+
+ delete mode 100644 fastai/.ipynb_checkpoints/lecture1-checkpoint.ipynb
+ delete mode 100644 fastai/README.md
+ delete mode 160000 fastai/courses
+ delete mode 100644 fastai/cuda-repo-ubuntu1604_8.0.44-1_amd64.deb
+ delete mode 100644 fastai/lecture1.ipynb
+
+commit 41d8f66d997418480e84ab5306d156c0c1ed42de
+Author: dc <dougchang25@gmail.com>
+Date:   Thu Feb 8 15:19:32 2018 -0800
+
+    add fastai
+
+ delete mode 100644 kaggle/rossmann/.ipynb_checkpoints/RNN_GatedRNN_Klein-checkpoint.ipynb
+ delete mode 100644 kaggle/rossmann/.ipynb_checkpoints/Untitled-checkpoint.ipynb
+ delete mode 100644 kaggle/rossmann/.ipynb_checkpoints/rossman-checkpoint.ipynb
+ delete mode 100644 kaggle/rossmann/.ipynb_checkpoints/rossman_original-checkpoint.ipynb
+ delete mode 100644 kaggle/rossmann/.ipynb_checkpoints/rossman_origrnn-checkpoint.ipynb
+ delete mode 100644 kaggle/rossmann/.ipynb_checkpoints/tensorflow_featureeng-checkpoint.ipynb
+ delete mode 100644 kaggle/rossmann/README.md
+ delete mode 100644 kaggle/rossmann/RNN_GatedRNN_Klein.ipynb
+ delete mode 100644 kaggle/rossmann/Untitled.ipynb
+ delete mode 160000 kaggle/rossmann/entity-embedding-rossmann
+ delete mode 100644 kaggle/rossmann/googletrend.csv
+ delete mode 100644 kaggle/rossmann/original/sample_submission.csv.zip
+ delete mode 100644 kaggle/rossmann/original/store.csv.zip
+ delete mode 100644 kaggle/rossmann/original/test.csv.zip
+ delete mode 100644 kaggle/rossmann/original/train.csv.zip
+ delete mode 100644 kaggle/rossmann/rossman.ipynb
+ delete mode 100644 kaggle/rossmann/rossman_original.ipynb
+ delete mode 100644 kaggle/rossmann/rossman_origrnn.ipynb
+ delete mode 100644 kaggle/rossmann/rossmann_update.ipynb
+ delete mode 100644 kaggle/rossmann/state_names.csv
+ delete mode 100644 kaggle/rossmann/store.csv
+ delete mode 100644 kaggle/rossmann/store_states.csv
+ delete mode 100644 kaggle/rossmann/tensorflow_featureeng.ipynb
+ delete mode 100644 kaggle/rossmann/test.csv
+ delete mode 100644 kaggle/rossmann/train.csv
+ delete mode 100644 kaggle/rossmann/weather.csv
+
+commit 8b31853cbba5ddd07f9a4a3e6d9fb10755692f38
+Author: dougc333 <dougc@stanfordalumni.org>
+Date:   Wed Jan 31 08:35:07 2018 -0800
+
+    add utils
+
+ delete mode 100644 Untitled Folder/Untitled.ipynb
+
+commit 043ba24897ee64c2ab5bb12e6dacb79ee3050e26
+Author: dougc333 <dougc@stanfordalumni.org>
+Date:   Fri Jan 12 11:30:14 2018 -0800
+
+    add rnn
+
+ delete mode 100644 rnn/text8.zip
+
+commit bf269ce90cf24207855db29068f67b805bf3b7a4
+Author: dougc333 <dougc@stanfordalumni.org>
+Date:   Tue Jan 9 19:44:18 2018 -0800
+
+    add
+
+ delete mode 100644 cuda.ipynb
+
+commit f316477d3a6d9f800be50bae1f723e37b06146a4
+Author: dougc333 <dougc@stanfordalumni.org>
+Date:   Tue Jan 9 11:25:05 2018 -0800
+
+    add
+
+ delete mode 100644 Untitled Folder/Untitled.ipynb
+ delete mode 100644 backprop/README
+ delete mode 100644 dimension_reduction/README.md
+ delete mode 100644 kaggle/web/.idea/inspectionProfiles/profiles_settings.xml
+ delete mode 100644 kaggle/web/.idea/misc.xml
+ delete mode 100644 kaggle/web/.idea/modules.xml
+ delete mode 100644 kaggle/web/.idea/web.iml
+ delete mode 100644 kaggle/web/.idea/workspace.xml
+ delete mode 100644 kaggle/web/README.md
+ delete mode 100644 kaggle/web/app.py
+ delete mode 100644 kaggle/web/images.db
+ delete mode 100644 kaggle/web/templates/index.html
+ delete mode 100644 kaggle/web/templates/signUp.html
+ delete mode 100644 kaggle/web/templates/test.html
+ delete mode 100644 kaggle/web/templates/type1.html
+ delete mode 100644 kaggle/web/templates/type2.html
+ delete mode 100644 kaggle/web/templates/type3.html
+ delete mode 100644 kaggle/web/test.db
+ delete mode 100644 reinforce/imitationlearning/README.md
+ delete mode 100644 rnn/.ipynb_checkpoints/char_rnn-checkpoint.ipynb
+ delete mode 100644 rnn/char_rnn.ipynb
+ delete mode 100644 visualization/README.md
+
+commit 3496d318768ea24c4aec22ff139cbcc4f14c6908
+Author: dougc333 <dougc@stanfordalumni.org>
+Date:   Sun Nov 26 14:02:44 2017 -0800
+
+    add
+
+ delete mode 100644 computervision/tiramisu-keras.ipynb
+ delete mode 100644 computervision/tiramisu-pytorch.ipynb
+
+commit 4b948edd9b55afce723fbcf5aa66fed424bdc53d
+Author: dougc333 <dougc@stanfordalumni.org>
+Date:   Sun Nov 26 14:02:44 2017 -0800
+
+    add
+
+ delete mode 100644 computervision/tiramisu-keras.ipynb
+ delete mode 100644 computervision/tiramisu-pytorch.ipynb
+
+commit 651dce74848f79ec7d2cb78705d82256c1f25fe5
+Author: dougc333 <dougc@stanfordalumni.org>
+Date:   Tue Nov 21 13:24:43 2017 -0800
+
+    add
+
+ delete mode 100644 hinton/EECS-2017-54.pdf
+ delete mode 100644 hinton/baiduvideo.pdf
+ delete mode 100644 hinton/deeprepresentationboundarytree.pdf
+ delete mode 100644 presentations/BRV.pdf
+
+commit 2acee2a0ee9855eaaa87be39df258b58581571a9
+Author: dougc333 <dougc@stanfordalumni.org>
+Date:   Tue Nov 21 13:24:43 2017 -0800
+
+    add
+
+ delete mode 100644 hinton/EECS-2017-54.pdf
+ delete mode 100644 hinton/baiduvideo.pdf
+ delete mode 100644 hinton/deeprepresentationboundarytree.pdf
+ delete mode 100644 presentations/BRV.pdf
+
+commit 8487fb171353ffe5b60c434250d614bcbc4078d5
+Author: dougc333 <dougc@stanfordalumni.org>
+Date:   Tue Nov 14 10:41:04 2017 -0800
+
+    add
+
+ delete mode 100644 hinton/assignment3/test1.m
+ delete mode 100644 hinton/assignment3/test2.m
+
+commit 0c1acb8b7e9d3a501c387683c68a3a4204e884dc
+Author: dougc333 <dougc@stanfordalumni.org>
+Date:   Tue Nov 14 10:41:04 2017 -0800
+
+    add
+
+ delete mode 100644 hinton/assignment3/test1.m
+ delete mode 100644 hinton/assignment3/test2.m
+
+commit ac67f7ba73858365da93e152134588b4f3d8c929
+Author: dougc333 <dougc@stanfordalumni.org>
+Date:   Mon Nov 13 23:24:50 2017 -0800
+
+    add
+
+ delete mode 100644 hinton/assignment3/initial_model.m
+ delete mode 100644 hinton/assignment3/log_sum_exp_over_rows.m
+ delete mode 100644 hinton/assignment3/logistic.m
+ delete mode 100644 hinton/assignment3/loss.m
+ delete mode 100644 hinton/assignment3/model_to_theta.m
+ delete mode 100644 hinton/assignment3/theta_to_model.m
+
+commit fafbbeb395216c1855ff4e095f24755b12507a7e
+Author: dougc333 <dougc@stanfordalumni.org>
+Date:   Mon Nov 13 23:24:50 2017 -0800
+
+    add
+
+ delete mode 100644 hinton/assignment3/initial_model.m
+ delete mode 100644 hinton/assignment3/log_sum_exp_over_rows.m
+ delete mode 100644 hinton/assignment3/logistic.m
+ delete mode 100644 hinton/assignment3/loss.m
+ delete mode 100644 hinton/assignment3/model_to_theta.m
+ delete mode 100644 hinton/assignment3/theta_to_model.m
+
+commit fa1919f133103adbeebe2f01a03341d1c59cb72a
+Author: dougc333 <dougc@stanfordalumni.org>
+Date:   Tue Nov 7 14:29:19 2017 -0800
+
+    add:
+
+ delete mode 100644 .ipynb_checkpoints/Untitled-checkpoint.ipynb
+ delete mode 100644 Untitled.ipynb
+
+commit d9c9e6af453ad55cfa8d4a94629a1efdcaed3502
+Author: dougc333 <dougc@stanfordalumni.org>
+Date:   Tue Nov 7 14:29:19 2017 -0800
+
+    add:
+
+ delete mode 100644 .ipynb_checkpoints/Untitled-checkpoint.ipynb
+ delete mode 100644 Untitled.ipynb
+
+commit 10a112c225777caadd54d1e66c835052b1ea68c4
+Author: dougc333 <dougc@stanfordalumni.org>
+Date:   Sun Nov 5 18:28:07 2017 -0800
+
+    add
+
+ delete mode 100644 hinton/caltechadvanced.ipynb~6401ba01b42d58480f07371bceb3ede6fb55e533~HEAD
+ delete mode 100644 hinton/caltechadvanced.ipynb~6401ba01b42d58480f07371bceb3ede6fb55e533~d051dab76ca6d0946a511b6ebc806e617545f8e5
+ delete mode 100644 hinton/caltechadvanced.ipynb~HEAD~HEAD
+ delete mode 100644 hinton/caltechadvanced.ipynb~HEAD~d051dab76ca6d0946a511b6ebc806e617545f8e5
+
+commit 6e285411067ed19cae5d5fee9cac3c6b2840c200
+Author: dougc333 <dougc@stanfordalumni.org>
+Date:   Sun Nov 5 18:28:07 2017 -0800
+
+    add
+
+ delete mode 100644 hinton/caltechadvanced.ipynb~6401ba01b42d58480f07371bceb3ede6fb55e533~HEAD
+ delete mode 100644 hinton/caltechadvanced.ipynb~6401ba01b42d58480f07371bceb3ede6fb55e533~d051dab76ca6d0946a511b6ebc806e617545f8e5
+ delete mode 100644 hinton/caltechadvanced.ipynb~HEAD~HEAD
+ delete mode 100644 hinton/caltechadvanced.ipynb~HEAD~d051dab76ca6d0946a511b6ebc806e617545f8e5
+
+commit d051dab76ca6d0946a511b6ebc806e617545f8e5
+Author: dougc333 <dougc@stanfordalumni.org>
+Date:   Wed Oct 25 12:22:18 2017 -0700
+
+    add
+
+ delete mode 100644 rnn/nanopore.ipynb
+
+commit 0a798d64a186c9890c12f98e77b00e521df28592
+Author: dougc333 <dougc@stanfordalumni.org>
+Date:   Wed Oct 25 12:22:18 2017 -0700
+
+    add
+
+ delete mode 100644 rnn/nanopore.ipynb
+
+commit 0c728387e5aa3f3053619cbddfb9c8612f05d189
+Author: dougc333 <dougc@stanfordalumni.org>
+Date:   Fri Oct 13 13:31:16 2017 -0700
+
+    add
+
+ delete mode 100644 hinton/rnn/hinton_rnn.ipynb
+
+commit 76359896d1e8850093e6737f28295c9b50788b15
+Author: dougc333 <dougc@stanfordalumni.org>
+Date:   Fri Oct 13 13:31:16 2017 -0700
+
+    add
+
+ delete mode 100644 hinton/rnn/hinton_rnn.ipynb
+
+commit f9bb8722edfdb1a746b4aec100a8bc51105d6d65
+Author: dougc333 <dougc@stanfordalumni.org>
+Date:   Wed Oct 11 13:09:56 2017 -0700
+
+    gradient
+
+ delete mode 100644 hinton/assignment3/dt_validation_input.mat
+ delete mode 100644 hinton/assignment3/dt_validation_inputs.mat
+
+commit a47e897ca90ef5f0400b311a8122002471023c03
+Author: dougc333 <dougc@stanfordalumni.org>
+Date:   Wed Oct 11 13:09:56 2017 -0700
+
+    gradient
+
+ delete mode 100644 hinton/assignment3/dt_validation_input.mat
+ delete mode 100644 hinton/assignment3/dt_validation_inputs.mat
+
+commit 51a32b1656f05346d97073123e23025274a6190f
+Author: dougc333 <dougc@stanfordalumni.org>
+Date:   Tue Oct 3 03:28:48 2017 -0700
+
+    add tv script lost all work
+
+ delete mode 100644 dlnd_image_classification.ipynb
+
+commit 4a3e6ba3e6c947482d64c89cd7915128efb778b9
+Author: dougc333 <dougc@stanfordalumni.org>
+Date:   Thu Sep 28 10:57:33 2017 -0700
+
+    add
+
+ delete mode 100644 tensorflow_examples/README.md
+ delete mode 100644 tensorflow_examples/udacity/.gitignore
+ delete mode 100644 tensorflow_examples/udacity/.ipynb_checkpoints/1_notmnist-checkpoint.ipynb
+ delete mode 100644 tensorflow_examples/udacity/.ipynb_checkpoints/2_fullyconnected-checkpoint.ipynb
+ delete mode 100644 tensorflow_examples/udacity/.ipynb_checkpoints/3_regularization-checkpoint.ipynb
+ delete mode 100644 tensorflow_examples/udacity/1_notmnist.ipynb
+ delete mode 100644 tensorflow_examples/udacity/2_fullyconnected.ipynb
+ delete mode 100644 tensorflow_examples/udacity/3_regularization.ipynb
+ delete mode 100644 tensorflow_examples/udacity/4_convolutions.ipynb
+ delete mode 100644 tensorflow_examples/udacity/5_word2vec.ipynb
+ delete mode 100644 tensorflow_examples/udacity/6_lstm.ipynb
+ delete mode 100644 tensorflow_examples/udacity/Dockerfile
+ delete mode 100644 tensorflow_examples/udacity/README.md
+
+commit 842500722b3e287927199ae3cd9f12021d24dcc8
+Author: dougc333 <dougc@stanfordalumni.org>
+Date:   Thu Sep 28 10:57:33 2017 -0700
+
+    add
+
+ delete mode 100644 tensorflow_examples/README.md
+ delete mode 100644 tensorflow_examples/udacity/.gitignore
+ delete mode 100644 tensorflow_examples/udacity/.ipynb_checkpoints/1_notmnist-checkpoint.ipynb
+ delete mode 100644 tensorflow_examples/udacity/.ipynb_checkpoints/2_fullyconnected-checkpoint.ipynb
+ delete mode 100644 tensorflow_examples/udacity/.ipynb_checkpoints/3_regularization-checkpoint.ipynb
+ delete mode 100644 tensorflow_examples/udacity/1_notmnist.ipynb
+ delete mode 100644 tensorflow_examples/udacity/2_fullyconnected.ipynb
+ delete mode 100644 tensorflow_examples/udacity/3_regularization.ipynb
+ delete mode 100644 tensorflow_examples/udacity/4_convolutions.ipynb
+ delete mode 100644 tensorflow_examples/udacity/5_word2vec.ipynb
+ delete mode 100644 tensorflow_examples/udacity/6_lstm.ipynb
+ delete mode 100644 tensorflow_examples/udacity/Dockerfile
+ delete mode 100644 tensorflow_examples/udacity/README.md
+
+commit c048048662f13f71ed62f632fd1afc0db0ca0782
+Author: dougc333 <dougc@stanfordalumni.org>
+Date:   Thu Sep 28 00:57:39 2017 -0700
+
+    push
+
+ delete mode 100644 hinton/.ipynb_checkpoints/RNN-checkpoint.ipynb
+ delete mode 100644 hinton/RNN.ipynb
+
+commit ee9ee5f7d40d1ffa92ad0f08d0a078ce2c45b1d2
+Author: dougc333 <dougc@stanfordalumni.org>
+Date:   Thu Sep 28 00:57:39 2017 -0700
+
+    push
+
+ delete mode 100644 hinton/.ipynb_checkpoints/RNN-checkpoint.ipynb
+ delete mode 100644 hinton/RNN.ipynb
+
+commit 20710401645f222c1cb28d65490e6b187b8b3b34
+Author: dougc333 <dougc@stanfordalumni.org>
+Date:   Sun Sep 24 10:55:37 2017 -0700
+
+    add
+
+ delete mode 100644 hinton/.ipynb_checkpoints/timeseries-checkpoint.ipynb~HEAD
+ delete mode 100644 hinton/timeseries.ipynb~77d29db28b858a23cc40cf5ed7cc814d27939142
+
+commit 903c25f3e02723dca6d65abb01b3fa5885e1b39f
+Author: dougc333 <dougc@stanfordalumni.org>
+Date:   Sun Sep 24 10:55:37 2017 -0700
+
+    add
+
+ delete mode 100644 hinton/.ipynb_checkpoints/timeseries-checkpoint.ipynb~HEAD
+ delete mode 100644 hinton/timeseries.ipynb~77d29db28b858a23cc40cf5ed7cc814d27939142
+
+commit d5ecf459c912aa7761418b340d1ed82e4644cf7a
+Author: dougc333 <dougc@stanfordalumni.org>
+Date:   Thu Sep 21 14:47:33 2017 -0700
+
+    add
+
+ delete mode 100644 rnn/rossman.ipynb
+
+commit dda94fc485049e339fe2407d99a5a9341aedeeb7
+Author: dougc333 <dougc@stanfordalumni.org>
+Date:   Thu Sep 21 14:47:33 2017 -0700
+
+    add
+
+ delete mode 100644 rnn/rossman.ipynb
+
+commit bab9524a821bc0544ea3ff3dacb2f77e16e36b9e
+Author: dougc333 <dougc@stanfordalumni.org>
+Date:   Mon Sep 18 16:35:03 2017 -0700
+
+    add
+
+ delete mode 100644 hinton/VGG16.pdf
+
+commit ae31f464e720d6a189ee81b1ca48a6ecec09a721
+Author: dougc333 <dougc@stanfordalumni.org>
+Date:   Mon Sep 18 16:35:03 2017 -0700
+
+    add
+
+ delete mode 100644 hinton/VGG16.pdf
+
+commit 9a8f18d1fdde80ed48cee44cbb09cb8adeea4b53
+Author: dougc333 <dougc@stanfordalumni.org>
+Date:   Wed Sep 6 12:06:00 2017 -0700
+
+    add
+
+ delete mode 100644 TensorFlowNotMnist/README.md
+
+commit 4d9f9b7e25017b0f61ec31921c067cc7561a072a
+Author: dougc333 <dougc@stanfordalumni.org>
+Date:   Wed Sep 6 12:06:00 2017 -0700
+
+    add
+
+ delete mode 100644 TensorFlowNotMnist/README.md
+
+commit 8d9d98fad51a27be802c2bb920f8d6b0edacb268
+Author: dougc333 <dougc@stanfordalumni.org>
+Date:   Mon Sep 4 21:10:32 2017 -0700
+
+    clean
+
+ delete mode 100644 encoderdecoder/README.md
+ delete mode 160000 gae
+ delete mode 100644 kotlin/README.md
+ delete mode 100644 matrix_gpu/README.md
+ delete mode 100644 tergetserver/README.md
+ delete mode 100644 transferlearning/README.md
+
+commit ea4dc1295e88779c1a35ce7543403b120442718d
+Author: dougc333 <dougc@stanfordalumni.org>
+Date:   Mon Sep 4 21:10:32 2017 -0700
+
+    clean
+
+ delete mode 100644 encoderdecoder/README.md
+ delete mode 160000 gae
+ delete mode 100644 kotlin/README.md
+ delete mode 100644 matrix_gpu/README.md
+ delete mode 100644 tergetserver/README.md
+ delete mode 100644 transferlearning/README.md
+
+commit e6758b1cab0c1ca67dcd16944b89ce1d2952f130
+Author: dougc333 <dougc@stanfordalumni.org>
+Date:   Thu Aug 31 11:46:55 2017 -0700
+
+    add
+
+ delete mode 100644 hinton/.ipynb_checkpoints/backprop3-checkpoint.ipynb
+ delete mode 100644 hinton/backprop3.ipynb
+
+commit a8c1a9593c9d92496838bde88806366c45f7ef96
+Author: dougc333 <dougc@stanfordalumni.org>
+Date:   Thu Aug 31 11:46:55 2017 -0700
+
+    add
+
+ delete mode 100644 hinton/.ipynb_checkpoints/backprop3-checkpoint.ipynb
+ delete mode 100644 hinton/backprop3.ipynb
+
+commit d75b675bd7c635954b3140b1949901253e4e5a3d
+Author: dougc333 <dougc@stanfordalumni.org>
+Date:   Sun Aug 27 15:05:05 2017 -0700
+
+    add
+
+ delete mode 100644 hinton/.ipynb_checkpoints/gradients-checkpoint.ipynb
+ delete mode 100644 hinton/gradients.ipynb
+
+commit b6d5be38b0f87f927a6ce41fa563207170ddfe6a
+Author: dougc333 <dougc@stanfordalumni.org>
+Date:   Sun Aug 27 15:05:05 2017 -0700
+
+    add
+
+ delete mode 100644 hinton/.ipynb_checkpoints/gradients-checkpoint.ipynb
+ delete mode 100644 hinton/gradients.ipynb
+
+commit 26c93e30136fcd64a8411f99bd29c3554d51ea0d
+Author: dougc333 <dougc@stanfordalumni.org>
+Date:   Tue Aug 15 17:52:35 2017 -0700
+
+    gradient
+
+ delete mode 100644 hinton/.ipynb_checkpoints/IntroTFandKeras-checkpoint.ipynb
+
+commit 0ed839758fdee4f69ee9f0027a11d4227229a260
+Author: dougc333 <dougc@stanfordalumni.org>
+Date:   Tue Aug 15 17:52:35 2017 -0700
+
+    gradient
+
+ delete mode 100644 hinton/.ipynb_checkpoints/IntroTFandKeras-checkpoint.ipynb
+
+commit 1cf5dc1557473ef697c7f8025b608df603fc70de
+Author: dougc333 <dougc@stanfordalumni.org>
+Date:   Sat Aug 12 14:43:16 2017 -0700
+
+    add
+
+ delete mode 100755 hinton/day.csv
+
+commit 0813a2289f5eb793a499fdda0430408be6134e51
+Author: dougc333 <dougc@stanfordalumni.org>
+Date:   Sat Aug 12 14:43:16 2017 -0700
+
+    add
+
+ delete mode 100755 hinton/day.csv
+
+commit 1b58d8f26dc08473563bf6703b6708fa68c9a60e
+Author: dougc333 <dougc@stanfordalumni.org>
+Date:   Fri Aug 11 11:15:49 2017 -0700
+
+    add
+
+ delete mode 100644 floyd_requirements.txt
+ delete mode 100644 helper.py
+ delete mode 100644 hinton/.ipynb_checkpoints/online_logisticregression-checkpoint.ipynb
+ delete mode 100644 hinton/Your_first_neural_network.ipynb
+ delete mode 100644 problem_unittests.py
+
+commit e2139c3bd128da533195b816f2730353d2df32a3
+Author: dougc333 <dougc@stanfordalumni.org>
+Date:   Fri Aug 11 11:15:49 2017 -0700
+
+    add
+
+ delete mode 100644 floyd_requirements.txt
+ delete mode 100644 helper.py
+ delete mode 100644 hinton/.ipynb_checkpoints/online_logisticregression-checkpoint.ipynb
+ delete mode 100644 hinton/Your_first_neural_network.ipynb
+ delete mode 100644 problem_unittests.py
+
+commit 4ecf3e13644c236c3913188de58dd49aa8d4f60d
+Author: dougc333 <dougc@stanfordalumni.org>
+Date:   Thu Aug 10 23:43:23 2017 -0700
+
+    clean
+
+ delete mode 100644 udacity_dl/README.md
+
+commit cccc1f702ca67d73a84d02495df3becba9236133
+Author: dougc333 <dougc@stanfordalumni.org>
+Date:   Thu Aug 10 23:43:23 2017 -0700
+
+    clean
+
+ delete mode 100644 udacity_dl/README.md
+
+commit 68673f2938c35992e4d49e0f019d44ff04b72d1d
+Author: dougc333 <dougc@stanfordalumni.org>
+Date:   Thu Aug 10 23:42:26 2017 -0700
+
+    add
+
+ delete mode 100644 first-neural-network/.ipynb_checkpoints/Your_first_neural_network-checkpoint.ipynb
+ delete mode 100644 first-neural-network/.ipynb_checkpoints/firstlecture-checkpoint.ipynb
+ delete mode 100755 first-neural-network/Bike-Sharing-Dataset/Readme.txt
+ delete mode 100644 first-neural-network/Your_first_neural_network.ipynb
+ delete mode 100644 first-neural-network/assets/neural_network.png
+ delete mode 100644 first-neural-network/binary.csv
+ delete mode 100644 first-neural-network/data_prep.py
+ delete mode 100644 first-neural-network/data_prep.pyc
+ delete mode 100644 first-neural-network/firstlecture.ipynb
+ delete mode 100644 first-neural-network/requirements.txt
+
+commit 703096973d60c1b015e8dc03323ec95bddfc3813
+Author: dougc333 <dougc@stanfordalumni.org>
+Date:   Thu Aug 10 23:42:26 2017 -0700
+
+    add
+
+ delete mode 100644 first-neural-network/.ipynb_checkpoints/Your_first_neural_network-checkpoint.ipynb
+ delete mode 100644 first-neural-network/.ipynb_checkpoints/firstlecture-checkpoint.ipynb
+ delete mode 100755 first-neural-network/Bike-Sharing-Dataset/Readme.txt
+ delete mode 100644 first-neural-network/Your_first_neural_network.ipynb
+ delete mode 100644 first-neural-network/assets/neural_network.png
+ delete mode 100644 first-neural-network/binary.csv
+ delete mode 100644 first-neural-network/data_prep.py
+ delete mode 100644 first-neural-network/data_prep.pyc
+ delete mode 100644 first-neural-network/firstlecture.ipynb
+ delete mode 100644 first-neural-network/requirements.txt
+
+commit 60652732b19d33434c66bee3811c49dde7d6d776
+Author: dougc333 <dougc@stanfordalumni.org>
+Date:   Wed Aug 9 17:12:43 2017 -0700
+
+    add
+
+ delete mode 100644 hinton/README.md
+ delete mode 100644 hinton/tmp/bp1.png
+ delete mode 100644 hinton/tmp/bp1a.png
+ delete mode 100644 hinton/tmp/bp2.png
+ delete mode 100644 hinton/tmp/bp3.png
+ delete mode 100644 hinton/tmp/bp4.png
+
+commit c5dbe92b7daefdbacf15b9615a4f1fa8414c746a
+Author: dougc333 <dougc@stanfordalumni.org>
+Date:   Wed Aug 9 17:12:43 2017 -0700
+
+    add
+
+ delete mode 100644 hinton/README.md
+ delete mode 100644 hinton/tmp/bp1.png
+ delete mode 100644 hinton/tmp/bp1a.png
+ delete mode 100644 hinton/tmp/bp2.png
+ delete mode 100644 hinton/tmp/bp3.png
+ delete mode 100644 hinton/tmp/bp4.png
+
+commit 6f92d6f7e9f4dbc2a7b8b262537becf7cefbcf45
+Author: dougc333 <dougc@stanfordalumni.org>
+Date:   Thu Aug 3 10:29:36 2017 -0700
+
+    add lecture
+
+ delete mode 100644 first-neural-network/.ipynb_checkpoints/Untitled-checkpoint.ipynb
+ delete mode 100644 first-neural-network/Untitled.ipynb
+
+commit f0907f8cb0e784453909b3a3c3c6611d3b44b342
+Author: dougc333 <dougc@stanfordalumni.org>
+Date:   Thu Aug 3 10:29:36 2017 -0700
+
+    add lecture
+
+ delete mode 100644 first-neural-network/.ipynb_checkpoints/Untitled-checkpoint.ipynb
+ delete mode 100644 first-neural-network/Untitled.ipynb
+
+commit 77d29db28b858a23cc40cf5ed7cc814d27939142
+Author: dougc333 <dougc@stanfordalumni.org>
+Date:   Sun Jul 30 13:34:09 2017 -0700
+
+    add
+
+ delete mode 100644 kaggle/3rdk.DS_Store
+ delete mode 100644 kaggle/biological_response/README.md
+ delete mode 100644 kaggle/biological_response/README.save
+ delete mode 100644 kaggle/boundary_tree.ipynb
+ delete mode 100644 kaggle/deepforest.ipynb
+ delete mode 100644 kaggle/errors/README.md
+ delete mode 100644 kaggle/md
+ delete mode 100644 kaggle/otsu.ipynb
+
+commit e23d1bb83bb5fe6319c55b1c0d5e45c852490633
+Author: dougc333 <dougc@stanfordalumni.org>
+Date:   Sun Jul 30 13:34:09 2017 -0700
+
+    add
+
+ delete mode 100644 kaggle/3rdk.DS_Store
+ delete mode 100644 kaggle/biological_response/README.md
+ delete mode 100644 kaggle/biological_response/README.save
+ delete mode 100644 kaggle/boundary_tree.ipynb
+ delete mode 100644 kaggle/deepforest.ipynb
+ delete mode 100644 kaggle/errors/README.md
+ delete mode 100644 kaggle/md
+ delete mode 100644 kaggle/otsu.ipynb
+
+commit c8905767e9803d7539e661025d4621a934b43f43
+Author: dougc333 <dougc@stanfordalumni.org>
+Date:   Sun Jul 30 12:40:11 2017 -0700
+
+    add
+
+ delete mode 100644 kaggle/criteodisplay/.ipynb_checkpoints/makecsv-checkpoint.ipynb
+ delete mode 100644 kaggle/criteodisplay/README.md
+ delete mode 100644 kaggle/criteodisplay/makecsv.ipynb
+ delete mode 160000 kaggle/kaggle-2014-criteo
+ delete mode 100644 kaggle/rossmann.tgz
+ delete mode 100644 kaggle/sample_submission.csv
+
+commit 80c50097ad4a05ceb87717b61e36e7029d931103
+Author: dougc333 <dougc@stanfordalumni.org>
+Date:   Sun Jul 30 12:40:11 2017 -0700
+
+    add
+
+ delete mode 100644 kaggle/criteodisplay/.ipynb_checkpoints/makecsv-checkpoint.ipynb
+ delete mode 100644 kaggle/criteodisplay/README.md
+ delete mode 100644 kaggle/criteodisplay/makecsv.ipynb
+ delete mode 160000 kaggle/kaggle-2014-criteo
+ delete mode 100644 kaggle/rossmann.tgz
+ delete mode 100644 kaggle/sample_submission.csv
+
+commit 42b2aa07146c5aab2a76e26b419515c534680591
+Author: dougc333 <dougc@stanfordalumni.org>
+Date:   Tue Jul 18 18:26:45 2017 -0700
+
+    add
+
+ delete mode 100644 hinton/.ipynb_checkpoints/Linear Regression-checkpoint.ipynb
+ delete mode 100644 hinton/Linear Regression.ipynb
+
+commit a803c56009de2de196f84def60e0b98c77858ae4
+Author: dougc333 <dougc@stanfordalumni.org>
+Date:   Tue Jul 18 10:56:41 2017 -0700
+
+    clean
+
+ delete mode 100644 hinton/Coursera _ Online Courses From Top Universities. Join for Free _ Coursera.htm
+ delete mode 100644 hinton/Coursera _ Online Courses From Top Universities. Join for Free _ Coursera_files/CalloutBox.css
+ delete mode 100644 hinton/Coursera _ Online Courses From Top Universities. Join for Free _ Coursera_files/CalloutBox.js
+ delete mode 100644 hinton/Coursera _ Online Courses From Top Universities. Join for Free _ Coursera_files/CertificatePrice.js
+ delete mode 100644 hinton/Coursera _ Online Courses From Top Universities. Join for Free _ Coursera_files/CertificateUpsell.js
+ delete mode 100644 hinton/Coursera _ Online Courses From Top Universities. Join for Free _ Coursera_files/FormativeQuizHeader.js
+ delete mode 100644 hinton/Coursera _ Online Courses From Top Universities. Join for Free _ Coursera_files/FsmUtils.js
+ delete mode 100644 hinton/Coursera _ Online Courses From Top Universities. Join for Free _ Coursera_files/FullscreenLayoutHandler.sub.rjsBundle.752ccdb9a2e6a647d62c5232f6a20768.6.js
+ delete mode 100644 hinton/Coursera _ Online Courses From Top Universities. Join for Free _ Coursera_files/GradingAttempt.js
+ delete mode 100644 hinton/Coursera _ Online Courses From Top Universities. Join for Free _ Coursera_files/Header.js
+ delete mode 100644 hinton/Coursera _ Online Courses From Top Universities. Join for Free _ Coursera_files/HeaderNumberOfAttempts.js
+ delete mode 100644 hinton/Coursera _ Online Courses From Top Universities. Join for Free _ Coursera_files/HomeLayout.sub.rjsBundle.99bcd71466d50d8dd8100657cbc20060.6.js
+ delete mode 100644 hinton/Coursera _ Online Courses From Top Universities. Join for Free _ Coursera_files/ItemLayoutHandler.sub.rjsBundle.fb1a336a10f19bdb89c429028c60535a.6.js
+ delete mode 100644 hinton/Coursera _ Online Courses From Top Universities. Join for Free _ Coursera_files/MathJax.js
+ delete mode 100644 hinton/Coursera _ Online Courses From Top Universities. Join for Free _ Coursera_files/NewQuizItem.js
+ delete mode 100644 hinton/Coursera _ Online Courses From Top Universities. Join for Free _ Coursera_files/NotPassedArea.js
+ delete mode 100644 hinton/Coursera _ Online Courses From Top Universities. Join for Free _ Coursera_files/OndemandApp.sub.rjsBundle.78c863be9c667533f249119933046291.6.js
+ delete mode 100644 hinton/Coursera _ Online Courses From Top Universities. Join for Free _ Coursera_files/PageDescription.js
+ delete mode 100644 hinton/Coursera _ Online Courses From Top Universities. Join for Free _ Coursera_files/PerformanceBar.js
+ delete mode 100644 hinton/Coursera _ Online Courses From Top Universities. Join for Free _ Coursera_files/PeriodPage.sub.rjsBundle.535591e2740b8383af40641d4532ffed.6.js
+ delete mode 100644 hinton/Coursera _ Online Courses From Top Universities. Join for Free _ Coursera_files/ProctorTimer.js
+ delete mode 100644 hinton/Coursera _ Online Courses From Top Universities. Join for Free _ Coursera_files/Quiz.css
+ delete mode 100644 hinton/Coursera _ Online Courses From Top Universities. Join for Free _ Coursera_files/Quiz.js
+ delete mode 100644 hinton/Coursera _ Online Courses From Top Universities. Join for Free _ Coursera_files/QuizActions.js
+ delete mode 100644 hinton/Coursera _ Online Courses From Top Universities. Join for Free _ Coursera_files/QuizApiUtils.js
+ delete mode 100644 hinton/Coursera _ Online Courses From Top Universities. Join for Free _ Coursera_files/QuizBody.js
+ delete mode 100644 hinton/Coursera _ Online Courses From Top Universities. Join for Free _ Coursera_files/QuizCloseModal.css
+ delete mode 100644 hinton/Coursera _ Online Courses From Top Universities. Join for Free _ Coursera_files/QuizCloseModal.js
+ delete mode 100644 hinton/Coursera _ Online Courses From Top Universities. Join for Free _ Coursera_files/QuizCover.js
+ delete mode 100644 hinton/Coursera _ Online Courses From Top Universities. Join for Free _ Coursera_files/QuizItem.sub.rjsBundle.1a5de92f08515679bd64cca412ebf43e.6.js
+ delete mode 100644 hinton/Coursera _ Online Courses From Top Universities. Join for Free _ Coursera_files/QuizItemContainer.js
+ delete mode 100644 hinton/Coursera _ Online Courses From Top Universities. Join for Free _ Coursera_files/QuizModal.js
+ delete mode 100644 hinton/Coursera _ Online Courses From Top Universities. Join for Free _ Coursera_files/QuizQuestions.js
+ delete mode 100644 hinton/Coursera _ Online Courses From Top Universities. Join for Free _ Coursera_files/QuizSessionData.js
+ delete mode 100644 hinton/Coursera _ Online Courses From Top Universities. Join for Free _ Coursera_files/ReadingItem.sub.rjsBundle.4d619f819ff5fa0c0da263b68befa142.6.js
+ delete mode 100644 hinton/Coursera _ Online Courses From Top Universities. Join for Free _ Coursera_files/RelativeVerificationWarnings.js
+ delete mode 100644 hinton/Coursera _ Online Courses From Top Universities. Join for Free _ Coursera_files/Score.js
+ delete mode 100644 hinton/Coursera _ Online Courses From Top Universities. Join for Free _ Coursera_files/SubHeader.js
+ delete mode 100644 hinton/Coursera _ Online Courses From Top Universities. Join for Free _ Coursera_files/SubmitArea.js
+ delete mode 100644 hinton/Coursera _ Online Courses From Top Universities. Join for Free _ Coursera_files/SummativeQuizHeader.js
+ delete mode 100644 hinton/Coursera _ Online Courses From Top Universities. Join for Free _ Coursera_files/TrackedQuiz.js
+ delete mode 100644 hinton/Coursera _ Online Courses From Top Universities. Join for Free _ Coursera_files/UnansweredQuestionsLabel.js
+ delete mode 100644 hinton/Coursera _ Online Courses From Top Universities. Join for Free _ Coursera_files/VerificationUtils.js
+ delete mode 100644 hinton/Coursera _ Online Courses From Top Universities. Join for Free _ Coursera_files/assessment.js
+ delete mode 100644 hinton/Coursera _ Online Courses From Top Universities. Join for Free _ Coursera_files/courseId.js
+ delete mode 100644 hinton/Coursera _ Online Courses From Top Universities. Join for Free _ Coursera_files/coursera.mathjax.js
+ delete mode 100644 hinton/Coursera _ Online Courses From Top Universities. Join for Free _ Coursera_files/eventing.js
+ delete mode 100644 hinton/Coursera _ Online Courses From Top Universities. Join for Free _ Coursera_files/immutable.js
+ delete mode 100644 hinton/Coursera _ Online Courses From Top Universities. Join for Free _ Coursera_files/index(1).css
+ delete mode 100644 hinton/Coursera _ Online Courses From Top Universities. Join for Free _ Coursera_files/index.css
+ delete mode 100644 hinton/Coursera _ Online Courses From Top Universities. Join for Free _ Coursera_files/index.js
+ delete mode 100644 hinton/Coursera _ Online Courses From Top Universities. Join for Free _ Coursera_files/loadVideojsForAudio.sub.rjsBundle.ac07aca4a00b699003f7fb2c5594f9e5.6.js
+ delete mode 100644 hinton/Coursera _ Online Courses From Top Universities. Join for Free _ Coursera_files/loader.r.rjsBundle.170c39f1f4a38765da0d3bb05f13e185.6.js
+ delete mode 100644 hinton/Coursera _ Online Courses From Top Universities. Join for Free _ Coursera_files/loading.gif
+ delete mode 100644 hinton/Coursera _ Online Courses From Top Universities. Join for Free _ Coursera_files/lockExperiment.js
+ delete mode 100644 hinton/Coursera _ Online Courses From Top Universities. Join for Free _ Coursera_files/mutationObserver.v0.3.1.amd.js
+ delete mode 100644 hinton/Coursera _ Online Courses From Top Universities. Join for Free _ Coursera_files/origamiSingleton.js
+ delete mode 100644 hinton/Coursera _ Online Courses From Top Universities. Join for Free _ Coursera_files/parseuri.v1-2-2.js
+ delete mode 100644 hinton/Coursera _ Online Courses From Top Universities. Join for Free _ Coursera_files/preloader.r.rjsBundle.8c8ba4ace1e23840822576035c207bd1.6.js
+ delete mode 100644 hinton/Coursera _ Online Courses From Top Universities. Join for Free _ Coursera_files/ptree.png
+ delete mode 100644 hinton/Coursera _ Online Courses From Top Universities. Join for Free _ Coursera_files/quiz-formative.js
+ delete mode 100644 hinton/Coursera _ Online Courses From Top Universities. Join for Free _ Coursera_files/quiz-summative.js
+ delete mode 100644 hinton/Coursera _ Online Courses From Top Universities. Join for Free _ Coursera_files/react-bootstrap.v0-21-2.js
+ delete mode 100644 hinton/Coursera _ Online Courses From Top Universities. Join for Free _ Coursera_files/rtl.js
+ delete mode 100644 hinton/Coursera _ Online Courses From Top Universities. Join for Free _ Coursera_files/scribe.v1-3-2.js
+ delete mode 100644 hinton/Coursera _ Online Courses From Top Universities. Join for Free _ Coursera_files/selectize.v0.12.1.js
+ delete mode 100644 hinton/Coursera _ Online Courses From Top Universities. Join for Free _ Coursera_files/startApp.sub.rjsBundle.04bd14cf4eeeeec4de6c641959fb08b1.6.js
+ delete mode 100644 hinton/Coursera _ Online Courses From Top Universities. Join for Free _ Coursera_files/userAgent(1).js
+ delete mode 100644 hinton/Coursera _ Online Courses From Top Universities. Join for Free _ Coursera_files/userAgent.js
+ delete mode 100644 hinton/Coursera _ Online Courses From Top Universities. Join for Free _ Coursera_files/userAgentOverride.js
+ delete mode 100644 hinton/Coursera _ Online Courses From Top Universities. Join for Free _ Coursera_files/userModal.css
+ delete mode 100644 hinton/Coursera _ Online Courses From Top Universities. Join for Free _ Coursera_files/verification.js
+ delete mode 100644 hinton/Coursera _ Online Courses From Top Universities. Join for Free _ Coursera_files/video.sub.rjsBundle.9611b884ab92777a21deb9b06129bfed.6.js
+ delete mode 100644 hinton/Coursera_files/CertificatePrice.js
+ delete mode 100644 hinton/Coursera_files/CertificateUpsell.js
+ delete mode 100644 hinton/Coursera_files/FormativeQuizHeader.js
+ delete mode 100644 hinton/Coursera_files/FsmUtils.js
+ delete mode 100644 hinton/Coursera_files/FullscreenLayoutHandler.sub.rjsBundle.752ccdb9a2e6a647d62c5232f6a20768.6.js
+ delete mode 100644 hinton/Coursera_files/GradingAttempt.js
+ delete mode 100644 hinton/Coursera_files/Header.js
+ delete mode 100644 hinton/Coursera_files/HeaderNumberOfAttempts.js
+ delete mode 100644 hinton/Coursera_files/MathJax.js
+ delete mode 100644 hinton/Coursera_files/NewQuizItem.js
+ delete mode 100644 hinton/Coursera_files/NotPassedArea.js
+ delete mode 100644 hinton/Coursera_files/OndemandApp.sub.rjsBundle.78c863be9c667533f249119933046291.6.js
+ delete mode 100644 hinton/Coursera_files/PageDescription.js
+ delete mode 100644 hinton/Coursera_files/PerformanceBar.js
+ delete mode 100644 hinton/Coursera_files/ProctorTimer.js
+ delete mode 100644 hinton/Coursera_files/Quiz.css
+ delete mode 100644 hinton/Coursera_files/Quiz.js
+ delete mode 100644 hinton/Coursera_files/QuizActions.js
+ delete mode 100644 hinton/Coursera_files/QuizApiUtils.js
+ delete mode 100644 hinton/Coursera_files/QuizBody.js
+ delete mode 100644 hinton/Coursera_files/QuizCloseModal.css
+ delete mode 100644 hinton/Coursera_files/QuizCloseModal.js
+ delete mode 100644 hinton/Coursera_files/QuizCover.js
+ delete mode 100644 hinton/Coursera_files/QuizItem.sub.rjsBundle.1a5de92f08515679bd64cca412ebf43e.6.js
+ delete mode 100644 hinton/Coursera_files/QuizItemContainer.js
+ delete mode 100644 hinton/Coursera_files/QuizModal.js
+ delete mode 100644 hinton/Coursera_files/QuizQuestions.js
+ delete mode 100644 hinton/Coursera_files/QuizSessionData.js
+ delete mode 100644 hinton/Coursera_files/RelativeVerificationWarnings.js
+ delete mode 100644 hinton/Coursera_files/Score.js
+ delete mode 100644 hinton/Coursera_files/SubHeader.js
+ delete mode 100644 hinton/Coursera_files/SubmitArea.js
+ delete mode 100644 hinton/Coursera_files/SummativeQuizHeader.js
+ delete mode 100644 hinton/Coursera_files/TrackedQuiz.js
+ delete mode 100644 hinton/Coursera_files/UnansweredQuestionsLabel.js
+ delete mode 100644 hinton/Coursera_files/VerificationUtils.js
+ delete mode 100644 hinton/Coursera_files/assessment.js
+ delete mode 100644 hinton/Coursera_files/courseId.js
+ delete mode 100644 hinton/Coursera_files/eventing.js
+ delete mode 100644 hinton/Coursera_files/immutable.js
+ delete mode 100644 hinton/Coursera_files/index(1).css
+ delete mode 100644 hinton/Coursera_files/index.css
+ delete mode 100644 hinton/Coursera_files/index.js
+ delete mode 100644 hinton/Coursera_files/loadVideojsForAudio.sub.rjsBundle.ac07aca4a00b699003f7fb2c5594f9e5.6.js
+ delete mode 100644 hinton/Coursera_files/loader.r.rjsBundle.170c39f1f4a38765da0d3bb05f13e185.6.js
+ delete mode 100644 hinton/Coursera_files/loading.gif
+ delete mode 100644 hinton/Coursera_files/lockExperiment.js
+ delete mode 100644 hinton/Coursera_files/mutationObserver.v0.3.1.amd.js
+ delete mode 100644 hinton/Coursera_files/origamiSingleton.js
+ delete mode 100644 hinton/Coursera_files/parseuri.v1-2-2.js
+ delete mode 100644 hinton/Coursera_files/preloader.r.rjsBundle.8c8ba4ace1e23840822576035c207bd1.6.js
+ delete mode 100644 hinton/Coursera_files/ptree.png
+ delete mode 100644 hinton/Coursera_files/quiz-formative.js
+ delete mode 100644 hinton/Coursera_files/quiz-summative.js
+ delete mode 100644 hinton/Coursera_files/react-bootstrap.v0-21-2.js
+ delete mode 100644 hinton/Coursera_files/rtl.js
+ delete mode 100644 hinton/Coursera_files/scribe.v1-3-2.js
+ delete mode 100644 hinton/Coursera_files/selectize.v0.12.1.js
+ delete mode 100644 hinton/Coursera_files/startApp.sub.rjsBundle.7310576a08ba85398ee7f8c13671ac3b.6.js
+ delete mode 100644 hinton/Coursera_files/userAgent(1).js
+ delete mode 100644 hinton/Coursera_files/userAgent.js
+ delete mode 100644 hinton/Coursera_files/userAgentOverride.js
+ delete mode 100644 hinton/Coursera_files/userModal.css
+ delete mode 100644 hinton/Coursera_files/verification.js
+ delete mode 100644 hinton/Coursera_files/video.sub.rjsBundle.9611b884ab92777a21deb9b06129bfed.6.js
+ delete mode 100644 hinton/Coursera_files/wordnet.png
+ delete mode 100644 hinton/Coursera_files/wordnet_swap.png
+ delete mode 100644 hinton/bad.htm
+ delete mode 100644 hinton/bad_files/CalloutBox.css
+ delete mode 100644 hinton/bad_files/CalloutBox.js
+ delete mode 100644 hinton/bad_files/CertificatePrice.js
+ delete mode 100644 hinton/bad_files/CertificateUpsell.js
+ delete mode 100644 hinton/bad_files/FormativeQuizHeader.js
+ delete mode 100644 hinton/bad_files/FsmUtils.js
+ delete mode 100644 hinton/bad_files/FullscreenLayoutHandler.sub.rjsBundle.752ccdb9a2e6a647d62c5232f6a20768.6.js
+ delete mode 100644 hinton/bad_files/GradingAttempt.js
+ delete mode 100644 hinton/bad_files/Header.js
+ delete mode 100644 hinton/bad_files/HeaderNumberOfAttempts.js
+ delete mode 100644 hinton/bad_files/HomeLayout.sub.rjsBundle.99bcd71466d50d8dd8100657cbc20060.6.js
+ delete mode 100644 hinton/bad_files/ItemLayoutHandler.sub.rjsBundle.fb1a336a10f19bdb89c429028c60535a.6.js
+ delete mode 100644 hinton/bad_files/MathJax.js
+ delete mode 100644 hinton/bad_files/NewQuizItem.js
+ delete mode 100644 hinton/bad_files/NotPassedArea.js
+ delete mode 100644 hinton/bad_files/OndemandApp.sub.rjsBundle.78c863be9c667533f249119933046291.6.js
+ delete mode 100644 hinton/bad_files/PageDescription.js
+ delete mode 100644 hinton/bad_files/PerformanceBar.js
+ delete mode 100644 hinton/bad_files/PeriodPage.sub.rjsBundle.535591e2740b8383af40641d4532ffed.6.js
+ delete mode 100644 hinton/bad_files/ProctorTimer.js
+ delete mode 100644 hinton/bad_files/Quiz.css
+ delete mode 100644 hinton/bad_files/Quiz.js
+ delete mode 100644 hinton/bad_files/QuizActions.js
+ delete mode 100644 hinton/bad_files/QuizApiUtils.js
+ delete mode 100644 hinton/bad_files/QuizBody.js
+ delete mode 100644 hinton/bad_files/QuizCloseModal.css
+ delete mode 100644 hinton/bad_files/QuizCloseModal.js
+ delete mode 100644 hinton/bad_files/QuizCover.js
+ delete mode 100644 hinton/bad_files/QuizItem.sub.rjsBundle.1a5de92f08515679bd64cca412ebf43e.6.js
+ delete mode 100644 hinton/bad_files/QuizItemContainer.js
+ delete mode 100644 hinton/bad_files/QuizModal.js
+ delete mode 100644 hinton/bad_files/QuizQuestions.js
+ delete mode 100644 hinton/bad_files/QuizSessionData.js
+ delete mode 100644 hinton/bad_files/ReadingItem.sub.rjsBundle.4d619f819ff5fa0c0da263b68befa142.6.js
+ delete mode 100644 hinton/bad_files/RelativeVerificationWarnings.js
+ delete mode 100644 hinton/bad_files/Score.js
+ delete mode 100644 hinton/bad_files/SubHeader.js
+ delete mode 100644 hinton/bad_files/SubmitArea.js
+ delete mode 100644 hinton/bad_files/SummativeQuizHeader.js
+ delete mode 100644 hinton/bad_files/TrackedQuiz.js
+ delete mode 100644 hinton/bad_files/UnansweredQuestionsLabel.js
+ delete mode 100644 hinton/bad_files/VerificationUtils.js
+ delete mode 100644 hinton/bad_files/assessment.js
+ delete mode 100644 hinton/bad_files/courseId.js
+ delete mode 100644 hinton/bad_files/coursera.mathjax.js
+ delete mode 100644 hinton/bad_files/eventing.js
+ delete mode 100644 hinton/bad_files/immutable.js
+ delete mode 100644 hinton/bad_files/index(1).css
+ delete mode 100644 hinton/bad_files/index.css
+ delete mode 100644 hinton/bad_files/index.js
+ delete mode 100644 hinton/bad_files/loadVideojsForAudio.sub.rjsBundle.ac07aca4a00b699003f7fb2c5594f9e5.6.js
+ delete mode 100644 hinton/bad_files/loader.r.rjsBundle.170c39f1f4a38765da0d3bb05f13e185.6.js
+ delete mode 100644 hinton/bad_files/loading.gif
+ delete mode 100644 hinton/bad_files/lockExperiment.js
+ delete mode 100644 hinton/bad_files/mutationObserver.v0.3.1.amd.js
+ delete mode 100644 hinton/bad_files/origamiSingleton.js
+ delete mode 100644 hinton/bad_files/parseuri.v1-2-2.js
+ delete mode 100644 hinton/bad_files/preloader.r.rjsBundle.8c8ba4ace1e23840822576035c207bd1.6.js
+ delete mode 100644 hinton/bad_files/ptree.png
+ delete mode 100644 hinton/bad_files/quiz-formative.js
+ delete mode 100644 hinton/bad_files/quiz-summative.js
+ delete mode 100644 hinton/bad_files/react-bootstrap.v0-21-2.js
+ delete mode 100644 hinton/bad_files/rtl.js
+ delete mode 100644 hinton/bad_files/scribe.v1-3-2.js
+ delete mode 100644 hinton/bad_files/selectize.v0.12.1.js
+ delete mode 100644 hinton/bad_files/startApp.sub.rjsBundle.7310576a08ba85398ee7f8c13671ac3b.6.js
+ delete mode 100644 hinton/bad_files/userAgent(1).js
+ delete mode 100644 hinton/bad_files/userAgent.js
+ delete mode 100644 hinton/bad_files/userAgentOverride.js
+ delete mode 100644 hinton/bad_files/userModal.css
+ delete mode 100644 hinton/bad_files/verification.js
+ delete mode 100644 hinton/bad_files/video.sub.rjsBundle.9611b884ab92777a21deb9b06129bfed.6.js
+ delete mode 100644 hinton/bad_files/wordnet.png
+ delete mode 100644 hinton/bad_files/wordnet_swap.png
+
+commit b99999641d8867018892fd9e36da7eaf96aa840b
+Author: dougc333 <dougc@stanfordalumni.org>
+Date:   Sun Jul 16 13:54:37 2017 -0700
+
+    inputpp
+
+ delete mode 100644 hinton/ Coursera.htm
+ delete mode 100644 hinton/.ipynb_checkpoints/Untitled-checkpoint.ipynb
+
+commit 81ac7ab5b175f6321c4228d91431efb28150262d
+Author: dougc333 <dougc@stanfordalumni.org>
+Date:   Fri Jul 7 09:23:42 2017 -0700
+
+    add
+
+ delete mode 100644 hinton/Assighment1.zip
+
+commit c4953c3d2c942c16feb843141ca5bc966037890d
+Author: dougc333 <dougc@stanfordalumni.org>
+Date:   Fri Jul 7 08:37:05 2017 -0700
+
+    add
+
+ delete mode 100644 hinton/sensor-fusion-ekf-reference.pdf
+
+commit c76c0581cb40f4707e83a94210f7557a9550d6e1
+Author: dougc333 <dougc@stanfordalumni.org>
+Date:   Sun Jul 2 19:53:34 2017 -0700
+
+    add
+
+ delete mode 100644 hinton/test.tiny.csv
+ delete mode 100644 hinton/train.tiny.csv
+
+commit 4e7d8bea79a0754ca9ec31b81e50763bf57609d4
+Author: dougc333 <dougc@stanfordalumni.org>
+Date:   Sun Jul 2 04:50:41 2017 -0700
+
+    add
+
+ delete mode 100644 hinton/matlab.ipynb
+
+commit 1026c421ee820b2bf7b4a98ded7dea24e01dee92
+Author: dougc333 <dougc@stanfordalumni.org>
+Date:   Sat Jul 1 09:29:58 2017 -0700
+
+    add
+
+ delete mode 100644 hinton/w.ps
+ delete mode 100644 hinton/x.ps
+
+commit e0cb89260c0a5c7c531adc0650f2e5f9ec16fc80
+Author: dougc333 <dougc@stanfordalumni.org>
+Date:   Mon Jun 26 08:13:50 2017 -0300
+
+    add
+
+ delete mode 100644 miniflow/.ipynb_checkpoints/Untitled-checkpoint.ipynb
+ delete mode 100644 miniflow/Untitled.ipynb
+
+commit f70b6e9f9d69d9b5f91000f157f504ee6b66d0d6
+Author: dougc333 <dougc@stanfordalumni.org>
+Date:   Sat Jun 17 20:43:44 2017 -0700
+
+    update
+
+ delete mode 120000 kaggle/web/static/type1
+
+commit 87c507a5dde40e10f7de7e004e24af1eac11aeab
+Author: dougc333 <dougc@stanfordalumni.org>
+Date:   Thu Jun 15 16:47:58 2017 -0700
+
+    dd
+
+ delete mode 100644 kaggle/type2_resize
+ delete mode 100644 kaggle/type2_resize.pkl
+
+commit 3e7e7f23239db4ffb1b7b79b483e90c54b1d2346
+Author: dougc333 <dougc@stanfordalumni.org>
+Date:   Thu Jun 15 02:43:30 2017 -0700
+
+    add
+
+ delete mode 100644 kaggle/kaggle_lenet.ipynb
+
+commit 1ad249a354a2e5974b30ce6884191e6aba4487c7
+Author: dougc333 <dougc@stanfordalumni.org>
+Date:   Wed Jun 14 19:56:00 2017 -0700
+
+    add
+
+ delete mode 100644 kaggle/keras_cnn_models.ipynb
+
+commit 638702e2e29673ec8c0e01d7053360132745edd6
+Author: dougc333 <dougc@stanfordalumni.org>
+Date:   Wed Jun 7 06:06:59 2017 -0700
+
+    asdf
+
+ delete mode 100644 kaggle/mnist_data/t10k-images-idx3-ubyte.gz
+ delete mode 100644 kaggle/mnist_data/t10k-labels-idx1-ubyte.gz
+ delete mode 100644 kaggle/mnist_data/train-images-idx3-ubyte.gz
+ delete mode 100644 kaggle/mnist_data/train-labels-idx1-ubyte.gz
+ delete mode 100644 kaggle/type2_resize
+ delete mode 100644 kaggle/type2_resize.pkl
+
+commit 04f908aedb01b5cc0593e7f1e08a53e392dd67f8
+Author: dougc333 <dougc@stanfordalumni.org>
+Date:   Wed Jun 7 04:48:58 2017 -0700
+
+    clean
+     Pleaseasdfasd
+    :wq
+    enter the commit message for your changes. Lines starting
+
+ delete mode 160000 udacity_dl/deep-learning
+
+commit 91bfa670879d98ccf2c3485e6d2a8aab3992b356
+Author: dougc333 <dougc@stanfordalumni.org>
+Date:   Sun Jun 4 15:25:13 2017 -0700
+
+    add
+
+ delete mode 100644 kaggle/mldata/mnist-original.mat
+
+commit e72812fac5c301a95cdfca180f25f6629d72edee
+Author: dougc333 <dougc@stanfordalumni.org>
+Date:   Thu May 25 21:28:50 2017 -0700
+
+    add
+
+ delete mode 100644 kaggle/.ipynb_checkpoints/Untitled-checkpoint.ipynb
+ delete mode 100644 kaggle/Untitled.ipynb

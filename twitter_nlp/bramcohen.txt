@@ -1,0 +1,288 @@
+@thefalda In this case they managed to get transaction fees up to $2.50 by spending over a million bucks. Not exact… https://t.co/PAqTR9BlQA@RyanZim4 The way fees are bending down below 100 seems to indicate that there's an emergent problem of fee estimat… https://t.co/euCgTEiWDf989218656734265344989207465567838208989200711370997761989200066509393920989199383164932101989194787478794241988494468654489605986697689713659904986637255665246214986388554858278913986328973910011904986310392392499200985912503313059840983902047178125312983846961940840448983783412585586688983782497661038593983749459489128449983748245603135488983693187855204353983692866961588224983457267008917504983456961332117505982775381080981509982774119610527745982768162029502464982768074699894785982767875344580615982767692233949184982767561308696576982767392282427392982767136551534598982767090397409285982766456831004672982766309262807041982711541362339840982025634384789504982025245203681280982010350970155008981921597081640960981921135448047616981920977998176256981920659990183936981695577040633856981694390119772160981693916419211264981693702367133696981693280621494272981692982331031552981680354690973696981677262452871170981677190344355840981676427530530816981675910876184577981675044039376897981674705718411264981673921849147394981673655603118082981671716588892160981671421993664512981671158725599232981670759566163968981670251468242944981670140470161408981669980021248000981668859315802112981667398234193920981615523203973120981609137883709440981563814956208134981422167148630016981288151393153029981003685152014336980905936456794113980700236833218560980664557046710272980509796657913856979878362230370304979455504362618880979432091493412864979431292763713536979421800365899776979415449958981632979415225425260544979029404511739904979029220457308161979015014207053824978890698907947008978709719853363200978709638890774528978709457575198721978670877473517568978473213079384064978464112442142720978463197882544128978439684257849344978414875067035648978408661797122048978379141631303681978374558951641088978358813542596608978357065390342147978354306549207040977769143129718784977760883295186944977760566964989952977760345258250240977737717290119168977649244315164672977290615997132800977278907891138560976489652252102656976489433636552704976169507461873664976169004556460032975910964003356672975910353824399360975870657006219264975854313250541568975854162641534976975827188158054400975826124398735360975793594077298688975081283477954561975080714906435584974450881017004032974429995501207552974391931508736000974344067244052480974016263780409344973613401468428289973075900001533952973074623423066113972917698773463040972917407919427584972574154716139520972573326580203520972558176590508033972554375095754752972553596297359361972553253673099264972305305492111365972293646245507072972292929589923841972291695554445312972255530495496192972239629448462336972239306730319872972234767398707200972225243061219328972223765194063873972223313731661824972223051696783360972222733332316160972222253025738752972221041140379650972220828468178944972214652087123968972213347696353280972212616415232000972210852693622784972210181789466624972210097769275392972209591214784512972208962278797312972208291274084352972207459443007488972207109348577280972206679277252608972206386892304384972205820275388416971901665279336448971836734697852928970699933081841665970695730435379200970695393028788224970694718840627200970670887811895296970667819086917632970549521213284352970153303148584960969602777780453376969594397619818496969593056235327488969561773908090881969257712335892491969213226167791616968938934330851328968170550097883136968074727565688832968044567550447616968037965372026881967957755339436034967955890711212033967900196368613376967889737368313856967889396778254336967888957831725056967846290405998593967614962909589504989218656734265344,@thefalda In this case they managed to get transaction fees up to $2.50 by spending over a million bucks. Not exact… https://t.co/PAqTR9BlQA,0,1989207465567838208,@RyanZim4 The way fees are bending down below 100 seems to indicate that there's an emergent problem of fee estimat… https://t.co/euCgTEiWDf,0,1989200711370997761,@RyanZim4 It looks like they've stopped and wallets are still setting fees at 100 out of momentum?,0,0989200066509393920,@YangVentures No in this case they could have just not been idiots and hardcoded their fees to 10 satoshis/byte and… https://t.co/8ULr9a2vrf,0,3989199383164932101,If you run a mining operation please send a note to Binance thanking them for their generous donation https://t.co/OFIILtNkBR,4,25989194787478794241,Who clogged the blockchain with a huge pile of giant transactions at exactly 100 satoshis/byte?,12,80988494468654489605,A high speed water jet can make a purple plasma https://t.co/iSLhPnQVOU,3,10986697689713659904,@peterktodd That's a bit extreme but querying terms in search boxes and guessing urls are clearly not 'hacking',0,6986637255665246214,Google mail search doesn't get results in Fi SMS messages, or even contacts. This is a major product fail.,0,12986388554858278913,A new way to keep the public from accessing public records: Mix in information which wasn't supposed to be public,… https://t.co/f42MvWr3gz,17,48986328973910011904,New Medium essay: 'How I got the VC firm I used to be a partner at to get one of their portfolio companies to buy o… https://t.co/gyv5424ZoA,24,162986310392392499200,Now with XVG you'll be able to acquire porn anonymously so an attacker won't be able to tell if you're part of the… https://t.co/40z2GC9HiP,5,25985912503313059840,"As skeptics we'd rather have no explanation than a wrong explanation",6,26983902047178125312,@theinstagibbs @nic__carter It's pronounced the same as the grain Chia. Nothing to do with Chai, the caffeinated beverage,0,2983846961940840448,@PC_Portland There's a keybase group with instructions for how to get on on https://t.co/DDqrFoDiNS,0,0983783412585586688,@pmkoom Best thing is to come on our keybase group, instructions on https://t.co/DDqrFoDiNS,0,1983782497661038593,@Daniel_Plante @joebloggscreato @trymolly Because only a tiny fraction of the codebase is the vast majority of the… https://t.co/LcHwktDyqK,0,0983749459489128449,@peterktodd The strange technologies built as a side effect of making custom Chia hardware are awesome,1,9983748245603135488,Years ago a roommate of mine kept his middle name a closely guarded secret. It turned out it was 'Cummings',3,29983693187855204353,My answer to @obeserverji’s question on @TryMolly #AskMolly
+https://t.co/zPjysBJDuU https://t.co/vdOniTLC2E,1,7983692866961588224,My answer to Rajesh Akkineni’s question on @TryMolly #AskMolly
+https://t.co/cHlSaBNDZf https://t.co/HNImoryOY3,1,16983457267008917504,My answer to @joebloggscreato’s question on @TryMolly #AskMolly
+https://t.co/JI6KihsiJ1 https://t.co/kqo2TMyv5Y,0,9983456961332117505,My answer to @Papadomme’s question on @TryMolly #AskMolly
+https://t.co/BfJWCn7YGV https://t.co/7VmaKgRHsj,1,11982775381080981509,@nullshadow7 @trymolly One of these I personally am working on, the others I'm not,0,1982774119610527745,@nullshadow7 @trymolly Only one of these things has shipped,1,5982768162029502464,My answer to @beckyloveshugs’s question on @TryMolly #AskMolly
+https://t.co/DEEALOb0tH https://t.co/Z1LQiswNn9,2,11982768074699894785,My answer to Devon LaBuik’s question on @TryMolly #AskMolly
+https://t.co/hk5VPVORjH https://t.co/17iA2f8EPO,1,18982767875344580615,My answer to Islam Sharabash’s question on @TryMolly #AskMolly
+https://t.co/OuWw5xSKTC https://t.co/TiydHtTkko,1,10982767692233949184,My answer to Islam Sharabash’s question on @TryMolly #AskMolly
+https://t.co/58ECbO2Jrh https://t.co/UjCApAi5q0,0,8982767561308696576,My answer to @Mc_Huge’s question on @TryMolly #AskMolly
+https://t.co/mraSp2i9jj https://t.co/oIE2aARIZC,0,5982767392282427392,My answer to @Mc_Huge’s question on @TryMolly #AskMolly
+https://t.co/HJvIsOQkJQ https://t.co/K7dNMJ5Iv1,0,16982767136551534598,My answer to Özgür Özkan’s question on @TryMolly #AskMolly
+https://t.co/Ukpw01yGVx https://t.co/yngppPSrSR,1,10982767090397409285,My answer to @dukecrawford’s question on @TryMolly #AskMolly
+https://t.co/gsPOaX7ajU https://t.co/SOpKOeNw4o,0,5982766456831004672,My answer to @dukecrawford’s question on @TryMolly #AskMolly
+https://t.co/tVIhZl9Eg2 https://t.co/faKrXUF1o5,4,21982766309262807041,My answer to @bojanstef’s question on @TryMolly #AskMolly
+https://t.co/FdFioguazU https://t.co/purgbOKmpL,1,11982711541362339840,@marenkate People usually ask everyone else if it's okay or at least apologize and do it not too loudly in my experience,0,0982025634384789504,My answer to @colfaxallstar’s question on @TryMolly #AskMolly
+https://t.co/puYNAYPoHm https://t.co/TGSHBIzdAh,1,7982025245203681280,My answer to @1proof’s question on @TryMolly #AskMolly
+https://t.co/47x65CFgfi https://t.co/KxF87wz8B7,0,5982010350970155008,@EconEngineer @cold_code @gdtrble @Scygone @trymolly It's especially skewed in the top tenth of a percent which are… https://t.co/8u96GRkCjc,0,0981921597081640960,My answer to Rajesh Akkineni’s question on @TryMolly #AskMolly
+https://t.co/9TfpUeHQux https://t.co/n45FAGOUAa,0,4981921135448047616,My answer to @Scygone’s question on @TryMolly #AskMolly
+https://t.co/EoXAyiyK4G https://t.co/OydyfNtYy3,2,10981920977998176256,My answer to Vivekananda Athukuri’s question on @TryMolly #AskMolly
+https://t.co/vSEun9soz9 https://t.co/2X8mUjfFcz,0,3981920659990183936,My answer to Smith John’s question on @TryMolly #AskMolly
+https://t.co/6HtQsUT19V https://t.co/PHntlyccTf,0,7981695577040633856,My answer to Phil Tomlinson’s question on @TryMolly #AskMolly
+https://t.co/OWfXw4p2BB https://t.co/s56RRnWQ8V,0,5981694390119772160,My answer to @EstherCrawford’s question on @TryMolly #AskMolly
+https://t.co/dbfunEpm6X https://t.co/93bP5Q97Xb,0,4981693916419211264,My answer to @chinese’s question on @TryMolly #AskMolly
+https://t.co/3G8L1k9QHz https://t.co/IVnfsj543S,0,1981693702367133696,My answer to @1proof’s question on @TryMolly #AskMolly
+https://t.co/93TECfnBUV https://t.co/ifi4l9dIFj,0,2981693280621494272,My answer to @kaxing’s question on @TryMolly #AskMolly
+https://t.co/EFQYJ6qDkz https://t.co/vguwGRqzOE,0,1981692982331031552,My answer to Artūras Friend’s question on @TryMolly #AskMolly
+https://t.co/3vOGFROPgf https://t.co/lkj9B4Y22f,0,3981680354690973696,My answer to Katelynne Schuler’s question on @TryMolly #AskMolly
+https://t.co/8ke87ugt9B https://t.co/HEUerdvmtg,1,2981677262452871170,My answer to @Scygone’s question on @TryMolly #AskMolly
+https://t.co/3Wf9VX9NAT https://t.co/c8W7UE2AT4,1,5981677190344355840,My answer to @Scygone’s question on @TryMolly #AskMolly
+https://t.co/3Wf9VX9NAT https://t.co/bkqs2Djcej,2,6981676427530530816,My answer to @EstherCrawford’s question on @TryMolly #AskMolly
+https://t.co/vBHiJU4r0i https://t.co/tBROtFIjMm,2,11981675910876184577,My answer to Catalin Boboc’s question on @TryMolly #AskMolly
+https://t.co/8CZsUsBing https://t.co/w8fkzIBcru,10,22981675044039376897,My answer to Artūras Friend’s question on @TryMolly #AskMolly
+https://t.co/cUWJDs5xPV https://t.co/nvtnBIdGHO,0,6981674705718411264,My answer to Daryl Yourk’s question on @TryMolly #AskMolly
+https://t.co/USa0CzqwXu https://t.co/5lcDa4f2a2,0,3981673921849147394,My answer to @nullshadow7’s question on @TryMolly #AskMolly
+https://t.co/DOwAVNH0iB https://t.co/Io767iwUVB,0,3981673655603118082,My answer to @orph’s question on @TryMolly #AskMolly
+https://t.co/gYZZez2KmU https://t.co/lhLTmyyVYN,1,6981671716588892160,My answer to @EstherCrawford’s question on @TryMolly #AskMolly
+https://t.co/2mh6RXuhNF https://t.co/OQo2jFvejl,0,3981671421993664512,My answer to @nullshadow7’s question on @TryMolly #AskMolly
+https://t.co/TaYCuPFsou https://t.co/JSOFQp4fO1,1,5981671158725599232,@containerengine It seems to not have automatically identified what you said as a question, may need a question mark at the end,0,0981670759566163968,@RichardHeartWin To get an answer you have to phrase in the form of a question and punctuate appropriately,0,1981670251468242944,My answer to @WhydoiNot’s question on @TryMolly #AskMolly
+https://t.co/je7TKNSw64 https://t.co/z3FN57nEMr,0,13981670140470161408,My answer to Mark Belktron’s question on @TryMolly #AskMolly
+https://t.co/jDG3bnkzXw https://t.co/Zdizt06US3,1,6981669980021248000,My answer to @samaparicio’s question on @TryMolly #AskMolly
+https://t.co/25hqRb7q3c https://t.co/ZGPpEAp0sO,1,9981668859315802112,My answer to @yungrollneck’s question on @TryMolly #AskMolly
+https://t.co/a6lyQO3geg https://t.co/IGDA0SSTfR,4,36981667398234193920,Ask me anything https://t.co/AzLRQEgyrG,0,12981615523203973120,Now it will be necessary to find someone on Facebook by adding to contacts to find them on Snapchat, then searching… https://t.co/MDMZw4KUlq,1,2981609137883709440,Being a 'vegan bodybuilder' might result in not getting enough nutrients for your brain to function properly,2,31981563814956208134,Most companies use an IPO structure where they raise money they don't need to get founder liquidity which they do.… https://t.co/lu4DjQnsfF,2,11981422167148630016,@Daniel_Plante There's a whole song about it https://t.co/VF2dtXiR4T,0,0981288151393153029,The word is spelled F-R-I-N-D-S. did I make that clear? It's F-R-I-N-D-S,0,5981003685152014336,@VladZamfir That would be a soft fork, not a hard fork,0,6980905936456794113,@christophejunke @hughw @kragen @peterseibel An else clause is not the same as finally!,0,1980700236833218560,@peterseibel Coincidentally, I just used it today. The for/else was much prettier than setting and checking a boolean,0,1980664557046710272,@peterseibel for/else is a very handy construction. The else only gets hit if there's no break. People tell me I sh… https://t.co/LdaTZuaguM,2,15980509796657913856,@ProgRockRec Sounds more secure than most of the 'useful' proofs of work people propose,0,1979878362230370304,RT @DougPolkPoker: There are 0 out of 535 members of the United States House/Senate who are openly agnostic/atheist.
+
+We have a long way to…,135,0979455504362618880,@TamasBlummer @JoshConstine Overcoming that is the whole challenge but I believe we have it worked out with the alr… https://t.co/WZPrL2y3KH,0,2979432091493412864,@TamasBlummer @JoshConstine Initialization costs are very cheap though, basically two passes over the disk, so I ex… https://t.co/Akx3BE8gm7,0,0979431292763713536,@TamasBlummer @JoshConstine There are two questions here: Do people buy more storage to farm with? Do people bother… https://t.co/cFEAWvK0G1,0,130979421800365899776,Nah, Trump's lawyer will just claim that Trump's lawyer's lawyer wasn't actually Trump's lawyer's lawyer when he cl… https://t.co/D56vSatDnI,2,10979415449958981632,@TamasBlummer @JoshConstine The cost of the initial allocation are vastly less than the cost of the storage it's kept on though,0,130979415225425260544,@TamasBlummer @JoshConstine The limiting factor on it is storage capacity, but yes in some sense it's digging up wo… https://t.co/Rut2RvOb4G,0,0979029404511739904,@gegereno That's an interesting question,0,1979029220457308161,@LarryBitcoin @JoshConstine The idea is to make it so that miners can steal from the pool,0,4979015014207053824,RT @JoshConstine: Scoop on one of the hottest crypto startups from torrenting inventor @BramCohen: Chia just raised from Andreessen, avoids…,27,0978890698907947008,For those of you not in the know 'rescission' means 'You have to give the money back. All of it.' https://t.co/HN2jWz6Qkk,26,92978709719853363200,@beardcoin Yeah I was sort of live tweeting it,0,1978709638890774528,@kelvin04807132 Not interested,0,0978709457575198721,@Daniel_Plante @adam3us @NickSzabo4 @peterktodd @lopp @eric_lombrozo @TheBlueMatt @pwuille I can't  figure out what… https://t.co/UYXREpaykY,0,1978670877473517568,@peterktodd Since my effort is more about making a good implementation than doing original theory, I'm glad to have… https://t.co/J34cSNnjFQ,0,4978473213079384064,@DougPolkPoker @pattystash @CryptoGomez Haha YouTube time rebalancing arb?,0,0978464112442142720,HTTP/2 actually multiplexes properly. Makes it a reasonable transport for RPC-like protocols,4,20978463197882544128,Lightning Go codebase general principle: separate subsystems which only communicate via message passing. Should be done in any language!,15,61978439684257849344,@uhhyeahbret Actually that's what people who aren't CS people mean when they say 'time'. When CS people say 'time'… https://t.co/7CuccI56eL,0,1978414875067035648,Yep https://t.co/hI1v31vetR,1,0978408661797122048,@KishoreKV Just a guess,0,0978379141631303681,The fallout from Cambridge Analytica will probably be severe curtailing of third party data access by Facebook, iOS… https://t.co/GboMqR0v1f,12,65978374558951641088,@dammkewl It would be silly to claim something as original when it's already published and well studied. Besides,… https://t.co/ido0Nr5Asg,0,3978358813542596608,@EdanYago @AriDavidPaul Now that there's real logic for handling fees there are separate day/night and weekday/week… https://t.co/ot2iQeDnyM,0,0978357065390342147,@peterktodd It turns out all that compression stuff in my Merkle Set is just a reinvention of Radix Trees. Given th… https://t.co/FgSbc29iUi,0,15978354306549207040,A new constructions for BLS with multi-signature aggregation https://t.co/ZGbeKkETiU,18,67977769143129718784,@PhillipJeffri12 Beats me. I sat next to Drew at a presentation of one of the guys who does dutch auctions a few ye… https://t.co/Q5WwkjpclF,0,0977760883295186944,@AriDavidPaul How else will we get people to adopt lightning?,1,28977760566964989952,@PhillipJeffri12 Google did an IPO without traditional underwriters and it went fine. Dropbox could easily have done one as well,0,0977760345258250240,@PhillipJeffri12 That was a relatively small money raise. Probably more like 200 million in profit given the pop an… https://t.co/OeBhUgI1Aj,0,0977737717290119168,When will a transaction fee market ever develop? https://t.co/SkVJxohSiG,22,88977649244315164672,@PhillipJeffri12 Underwriters provide millions of dollars worth of services for billions in profits. They don't eve… https://t.co/qxFKwfLFVB,0,1977290615997132800,@hudsonjh10 The goal of an IPO is to raise money for the company, not make a donation to wall street,0,2977278907891138560,DropBox IPO fails miserably. Gave a quarter of all proceeds to underwriters https://t.co/0phmfsnVhR,5,37976489652252102656,@evawolfangel Mail me at my name at https://t.co/DDqrFoDiNS,0,0976489433636552704,@ahcastor Mail me at my name at https://t.co/DDqrFoDiNS,0,0976169507461873664,@matthew_d_green Or better: It sends over counter mode encrypted data in the exact amount of free memory, then read… https://t.co/DXf3lhTsAL,0,1976169004556460032,@matthew_d_green Maybe the secure device could issue proof of space challenges to the main device and require low l… https://t.co/qXyPxy9Hqt,0,3975910964003356672,@carinyuso @peterktodd https://t.co/DDqrFoDiNS,0,1975910353824399360,RT @alexstamos: Despite the rumors, I'm still fully engaged with my work at Facebook. It's true that my role did change. I'm currently spen…,899,0975870657006219264,Chia timelocks will support timestamps, block height, and proof of time iterations. That last one for the benefit of @peterktodd,2,42975854313250541568,@theinstagibbs @waxwing__ Everybody knows that 'crypto' is short for 'cryptography' and should stay that way,0,2975854162641534976,@San_person A spent coin. A coin not in the unspent set,0,0975827188158054400,@pmkoom It will be some time. Lots of things need to be built and we're working on it,0,0975826124398735360,Would it be okay to start calling the UTXO model the 'coin set' model? That seems much more descriptive and less confusing,4,25975793594077298688,RT @MachinePix: Automatic shoe cover for clean facilities. https://t.co/sUQSfwbBP2,479,0975081283477954561,@DougPolkPoker https://t.co/JXHiiFvBMp,0,2975080714906435584,@Melt_Dem Yo over here https://t.co/DDqrFoDiNS,1,24974450881017004032,@ezraklein Say how you feel,0,0974429995501207552,@jenberry7 Your secret is safe with me,0,0974391931508736000,@jenberry7 Lots of fascinating twisty puzzles being made these days,0,0974344067244052480,A puzzle with 3-fold rotation on one axis and 4-fold on another https://t.co/kewJDJbJtB,1,9974016263780409344,@paulkrugman Don't give him ideas!,0,7973613401468428289,Congratulations on taking a position in the newly formed toothless office of making the president not look bad https://t.co/Ejo9hy37EE,2,11973075900001533952,@ebfull @_prestwich We certainly will, although at the moment we're still getting basic functionality working,0,0973074623423066113,@ebfull Yes it would have been nice if they'd have permuted the letters for BLS12-381,0,0972917698773463040,@ebfull Exactly what it sounds like: BLS signatures and public keys are points on curves, we're swapping which is w… https://t.co/AoL63BH2MO,0,0972917407919427584,@floui_ https://t.co/irYaRmj4gs,0,2972574154716139520,@socrates1024 @paddyucl It states: In any reorg which doesn't go past the coinbase lock time and where there are no… https://t.co/zg7MtMKPWK,0,4972573326580203520,@mHaGqnOACyFm0h5 ETH state is so complicated that the only possible way to do it is with a forced order. Causes lon… https://t.co/Vo8fZ0jz33,0,1972558176590508033,@mHaGqnOACyFm0h5 The cryptographic properties of a secure hash based history implicitly enforce a (partial) orderin… https://t.co/vNs2AOj4BD,0,0972554375095754752,@theinstagibbs @socrates1024 @paddyucl Nope! Working out an example of why is left as an exercise for the reader. Or you can check my feed,0,0972553596297359361,Fun problem: Read just the first sentence of this tweet, and work out at example proving it for yourself https://t.co/ctiS3QAui5,0,12972553253673099264,@socrates1024 @paddyucl Accounts are inherently nonreorgsafe. If starting balances are (1, 5, 0) and the transactio… https://t.co/1PsyuOHRl1,0,12972305305492111365,@danrobinson @peterktodd Well yeah, if it isn't in a covenant there's no need for so much flexibility. You could ar… https://t.co/ee2wlztI9f,0,0972293646245507072,@peterktodd That doesn't cover for unknown amounts, like 'the amount going into output X must be at least my amount… https://t.co/Mxes21S9ed,0,0972292929589923841,@peterktodd Fair enough, that can probably handle most cases. In order to compare age and amount though at least on… https://t.co/6ogVDASyyI,0,0972291695554445312,@peterktodd CLTV is the common case, but you also might want things like having a vault which only lets out funds a… https://t.co/1GhGlhTHXg,0,1972255530495496192,@phzix Ah that makes sense. Truth be known signaling bits can always be reclaimed after a soft fork gets activated… https://t.co/kypH2vvLj6,0,2972239629448462336,@phzix Does Dragonmint support blocking some bip9 signals in case anyone decides to actually do real bip9 signaling… https://t.co/wGvf0PjdL3,0,0972239306730319872,Good news: overt asicboost isn't damaging to Bitcoin as a whole. It's also really, really obvious. Will be interest… https://t.co/iDKuOiKNa2,10,39972234767398707200,Does DragonMint's Asicboost implementation reduce the number of transactions accepted, and if not could further opt… https://t.co/PT5Dh0bLh5,1,9972225243061219328,@danrobinson The general plan is to support BIP144-style MAST in Taproot but remove OP_IF. This is all speculative… https://t.co/9hyatHYYpw,0,1972223765194063873,@thomaskerin There's a lot of resistance to recursive MAST for now just because of difficulty analyzing it,0,1972223313731661824,@danrobinson The general feeling is that we should eventually wind up with a shnorr + taproot + graftroot option. T… https://t.co/sT0OBAWIH9,0,2972223051696783360,@danrobinson Right there's unfortunately no way in graftroot to prove that the private key has been burned,0,0972222733332316160,@danrobinson Bitcoin will continue to support raw scriptpubkeys but their utility is limited once taproot + graftroot is an option,0,0972222253025738752,@danrobinson It doesn't make the transaction any larger and makes it indistinguishable from a normal UTXO until it'… https://t.co/BgVieJSD7u,0,0972221041140379650,@danrobinson Some of the taproot use cases are where a clean exit doesn't apply. There's a simple trick for showing… https://t.co/2tYkA4fW6T,0,0972220828468178944,@danrobinson In most smart contracts there's the clean path where everybody agrees and the result is short circuite… https://t.co/XvOZy2TDao,0,0972214652087123968,@_drgo @adam3us @kanzure @TheBlueMatt @LukeDashjr @lopp @jimmysong @el33th4xor @ittayeyal @socrates1024 @paddyucl… https://t.co/vEAtZrnMY7,0,5972213347696353280,@_drgo @adam3us @kanzure @TheBlueMatt @LukeDashjr @lopp @jimmysong @el33th4xor @ittayeyal Discussions so far have b… https://t.co/9nGzHTMHBt,0,2972212616415232000,Devs are generally interested in an ability for transactions to have a dependency on another TXO having been create… https://t.co/Ufj38yEU60,3,8972210852693622784,The technical details of Taproot are fairly clear while the analysis and optimizations of Graftroot are still in fl… https://t.co/VFBGFkxAf4,1,9972210181789466624,@_drawingthesun Yes info is at https://t.co/DDqrFoDiNS,0,1972210097769275392,@zaksmith Yes using taproot and graftroot in combination is clearly the way to go although graftroot doesn't make m… https://t.co/Envb0wfsWx,0,10972209591214784512,@danrobinson Huh? You can use Graftroot with any number of alternative scripts, but it doesn't make any sense unles… https://t.co/DwkNzfxd01,0,0972208962278797312,At Chia we've been working on a BLS implementation. Going with BLS12-381 but swapping the curves so it's 48 byte pu… https://t.co/7jm8komJHx,12,78972208291274084352,My Merkle Set still needs porting to C/C++. Experience with porting so far is that it makes typesafe languages cry.… https://t.co/gL39CmRlj4,1,10972207459443007488,Interesting question: What's necessary to support lightning sprites in the utxo model, and what does the state look… https://t.co/IdPEaGal5b,2,13972207109348577280,In a future script version it would be good to have opcodes to push the locktime and relative lock time onto the st… https://t.co/7qSi5g6ZAo,1,6972206679277252608,The utility of having having IF/ELSE/ENDIF in scripts with MAST or graftroot is highly dubious, removing them compl… https://t.co/nvAtZy4xJk,1,9972206386892304384,Core devs are generally very excited about taproot and graftroot. Likely roadmap is taproot + MAST (bip 114 style)… https://t.co/pYHpb9oNkJ,38,152972205820275388416,Sensible but slightly disappointing conclusion to extensive discussions about Bitcoin script upgradeability: non-ve… https://t.co/YZIzQRbOof,1,10971901665279336448,We are approaching the presidential scandal singularity,1,30971836734697852928,@NateSilver538 The smart money bets on what they think the weirdos will think in the future,1,6970699933081841665,@SGBarbour @fbarkhau @Truthcoin @derose @peterktodd There's a work difficulty adjustment which applies to farming,… https://t.co/EeQANk2inV,0,0970695730435379200,@peterktodd @hoffmang @fbarkhau @Truthcoin @derose In this case 'consumers' includes a lot of entreprises who have… https://t.co/9XcN5hfpUe,0,3970695393028788224,@Truthcoin @derose @fbarkhau @peterktodd It's possible to farm on the underlying partition, so the file system cont… https://t.co/WwYpuUlRtx,0,2970694718840627200,@fbarkhau @peterktodd @hoffmang @Truthcoin @derose Costs of installation are basically two passes over the disk to… https://t.co/uyCVXKIjth,0,1970670887811895296,@peterktodd @fbarkhau @Truthcoin @derose Total storage sold. @hoffmang has been doing research and running numbers,0,1970667819086917632,@fbarkhau @Truthcoin @derose @peterktodd The market for storage is about $140 billion per year and growing. Storage… https://t.co/JDp9Us1NCE,1,5970549521213284352,@Truthcoin @fbarkhau @derose @peterktodd It will cause a much smaller increase in consumption than the rewards if t… https://t.co/Il9oLckvLA,0,7970153303148584960,@DougPolkPoker Since you're taking stances on controversial issues now, what's your favorite text editor?,0,16969602777780453376,@sirchig @Bitbucket What is it that you're trying to do? We don't have any code available for Chia yet,0,0969594397619818496,@sirchig @Bitbucket What are you trying to do? We moved it to https://t.co/DDqrFolHWk,0,0969593056235327488,Cryptocurrency centralization is like harvesting metal off a bridge: A slippery slope of free money which works gre… https://t.co/48mXpBUovh,205,745969561773908090881,The surprising answer (spoiler!) is that the expected time to the next block is 10 minutes, and the expected time t… https://t.co/lbAuq5S9JY,1,20969257712335892491,If pompousness was the measure of blockchain quality Ouroboros would win hands down,5,48969213226167791616,RT @botnikstudios: Using predictive text we made a new Gwyneth Paltrow and created the ultimate lifestyle brand: goob
+https://t.co/AOrLsRgq…,1837,0968938934330851328,Is there a True Snopes feed of just the things Snopes rates as 'true'?,0,15968170550097883136,If you're really worried about active shooters in schools the appropriate security measure is putting locks on door… https://t.co/VMzGlofGTh,2,28968074727565688832,@BrettRichey @DougPolkPoker That's some thin value right there. Or maybe just insanity,0,1968044567550447616,@BrettRichey @DougPolkPoker Maybe J couldn't possibly have completed anything and it was (correctly!) viewed as an… https://t.co/LxBiHfgGiy,0,0968037965372026881,@DougPolkPoker King makes a good bluff because it's a blocker? Hard to justify that river call though. Maybe he had a read?,0,1967957755339436034,@pwuille Oh right. Random point in time is skewed upwards for both. I was thinking random block,0,6967955890711212033,@pwuille Mean is by definition 10 minutes. Median should be less than that,0,1967900196368613376,The sky is falling! https://t.co/96ppWi67Ty,4,31967889737368313856,@crodas @DougPolkPoker If the goal is to maximize the chances of beating every single other player a maximally unus… https://t.co/39Dj9gRFrF,1,5967889396778254336,@PredictWatchWin Come on the keybase channel to discuss, or submit your resume if you have coding/cryptography skills,0,1967888957831725056,@DougPolkPoker Mine is 100% in USDT,0,12967846290405998593,@fredwilson Has everything moved back to the old stuy building?,0,1967614962909589504,This looks a bit overheated https://t.co/3uarHXw7kU,4,14989218656734265344,@thefalda In this case they managed to get transaction fees up to $2.50 by spending over a million bucks. Not exact… https://t.co/PAqTR9BlQA,0,1
+989207465567838208,@RyanZim4 The way fees are bending down below 100 seems to indicate that there's an emergent problem of fee estimat… https://t.co/euCgTEiWDf,0,1
+989200711370997761,@RyanZim4 It looks like they've stopped and wallets are still setting fees at 100 out of momentum?,0,0
+989200066509393920,@YangVentures No in this case they could have just not been idiots and hardcoded their fees to 10 satoshis/byte and… https://t.co/8ULr9a2vrf,0,3
+989199383164932101,If you run a mining operation please send a note to Binance thanking them for their generous donation https://t.co/OFIILtNkBR,4,25
+989194787478794241,Who clogged the blockchain with a huge pile of giant transactions at exactly 100 satoshis/byte?,12,80
+988494468654489605,A high speed water jet can make a purple plasma https://t.co/iSLhPnQVOU,3,10
+986697689713659904,@peterktodd That's a bit extreme but querying terms in search boxes and guessing urls are clearly not 'hacking',0,6
+986637255665246214,Google mail search doesn't get results in Fi SMS messages, or even contacts. This is a major product fail.,0,12
+986388554858278913,A new way to keep the public from accessing public records: Mix in information which wasn't supposed to be public,… https://t.co/f42MvWr3gz,17,48
+986328973910011904,New Medium essay: 'How I got the VC firm I used to be a partner at to get one of their portfolio companies to buy o… https://t.co/gyv5424ZoA,24,162
+986310392392499200,Now with XVG you'll be able to acquire porn anonymously so an attacker won't be able to tell if you're part of the… https://t.co/40z2GC9HiP,5,25
+985912503313059840,"As skeptics we'd rather have no explanation than a wrong explanation",6,26
+983902047178125312,@theinstagibbs @nic__carter It's pronounced the same as the grain Chia. Nothing to do with Chai, the caffeinated beverage,0,2
+983846961940840448,@PC_Portland There's a keybase group with instructions for how to get on on https://t.co/DDqrFoDiNS,0,0
+983783412585586688,@pmkoom Best thing is to come on our keybase group, instructions on https://t.co/DDqrFoDiNS,0,1
+983782497661038593,@Daniel_Plante @joebloggscreato @trymolly Because only a tiny fraction of the codebase is the vast majority of the… https://t.co/LcHwktDyqK,0,0
+983749459489128449,@peterktodd The strange technologies built as a side effect of making custom Chia hardware are awesome,1,9
+983748245603135488,Years ago a roommate of mine kept his middle name a closely guarded secret. It turned out it was 'Cummings',3,29
+983693187855204353,My answer to @obeserverji’s question on @TryMolly #AskMolly
+https://t.co/zPjysBJDuU https://t.co/vdOniTLC2E,1,7
+983692866961588224,My answer to Rajesh Akkineni’s question on @TryMolly #AskMolly
+https://t.co/cHlSaBNDZf https://t.co/HNImoryOY3,1,16
+983457267008917504,My answer to @joebloggscreato’s question on @TryMolly #AskMolly
+https://t.co/JI6KihsiJ1 https://t.co/kqo2TMyv5Y,0,9
+983456961332117505,My answer to @Papadomme’s question on @TryMolly #AskMolly
+https://t.co/BfJWCn7YGV https://t.co/7VmaKgRHsj,1,11
+982775381080981509,@nullshadow7 @trymolly One of these I personally am working on, the others I'm not,0,1
+982774119610527745,@nullshadow7 @trymolly Only one of these things has shipped,1,5
+982768162029502464,My answer to @beckyloveshugs’s question on @TryMolly #AskMolly
+https://t.co/DEEALOb0tH https://t.co/Z1LQiswNn9,2,11
+982768074699894785,My answer to Devon LaBuik’s question on @TryMolly #AskMolly
+https://t.co/hk5VPVORjH https://t.co/17iA2f8EPO,1,18
+982767875344580615,My answer to Islam Sharabash’s question on @TryMolly #AskMolly
+https://t.co/OuWw5xSKTC https://t.co/TiydHtTkko,1,10
+982767692233949184,My answer to Islam Sharabash’s question on @TryMolly #AskMolly
+https://t.co/58ECbO2Jrh https://t.co/UjCApAi5q0,0,8
+982767561308696576,My answer to @Mc_Huge’s question on @TryMolly #AskMolly
+https://t.co/mraSp2i9jj https://t.co/oIE2aARIZC,0,5
+982767392282427392,My answer to @Mc_Huge’s question on @TryMolly #AskMolly
+https://t.co/HJvIsOQkJQ https://t.co/K7dNMJ5Iv1,0,16
+982767136551534598,My answer to Özgür Özkan’s question on @TryMolly #AskMolly
+https://t.co/Ukpw01yGVx https://t.co/yngppPSrSR,1,10
+982767090397409285,My answer to @dukecrawford’s question on @TryMolly #AskMolly
+https://t.co/gsPOaX7ajU https://t.co/SOpKOeNw4o,0,5
+982766456831004672,My answer to @dukecrawford’s question on @TryMolly #AskMolly
+https://t.co/tVIhZl9Eg2 https://t.co/faKrXUF1o5,4,21
+982766309262807041,My answer to @bojanstef’s question on @TryMolly #AskMolly
+https://t.co/FdFioguazU https://t.co/purgbOKmpL,1,11
+982711541362339840,@marenkate People usually ask everyone else if it's okay or at least apologize and do it not too loudly in my experience,0,0
+982025634384789504,My answer to @colfaxallstar’s question on @TryMolly #AskMolly
+https://t.co/puYNAYPoHm https://t.co/TGSHBIzdAh,1,7
+982025245203681280,My answer to @1proof’s question on @TryMolly #AskMolly
+https://t.co/47x65CFgfi https://t.co/KxF87wz8B7,0,5
+982010350970155008,@EconEngineer @cold_code @gdtrble @Scygone @trymolly It's especially skewed in the top tenth of a percent which are… https://t.co/8u96GRkCjc,0,0
+981921597081640960,My answer to Rajesh Akkineni’s question on @TryMolly #AskMolly
+https://t.co/9TfpUeHQux https://t.co/n45FAGOUAa,0,4
+981921135448047616,My answer to @Scygone’s question on @TryMolly #AskMolly
+https://t.co/EoXAyiyK4G https://t.co/OydyfNtYy3,2,10
+981920977998176256,My answer to Vivekananda Athukuri’s question on @TryMolly #AskMolly
+https://t.co/vSEun9soz9 https://t.co/2X8mUjfFcz,0,3
+981920659990183936,My answer to Smith John’s question on @TryMolly #AskMolly
+https://t.co/6HtQsUT19V https://t.co/PHntlyccTf,0,7
+981695577040633856,My answer to Phil Tomlinson’s question on @TryMolly #AskMolly
+https://t.co/OWfXw4p2BB https://t.co/s56RRnWQ8V,0,5
+981694390119772160,My answer to @EstherCrawford’s question on @TryMolly #AskMolly
+https://t.co/dbfunEpm6X https://t.co/93bP5Q97Xb,0,4
+981693916419211264,My answer to @chinese’s question on @TryMolly #AskMolly
+https://t.co/3G8L1k9QHz https://t.co/IVnfsj543S,0,1
+981693702367133696,My answer to @1proof’s question on @TryMolly #AskMolly
+https://t.co/93TECfnBUV https://t.co/ifi4l9dIFj,0,2
+981693280621494272,My answer to @kaxing’s question on @TryMolly #AskMolly
+https://t.co/EFQYJ6qDkz https://t.co/vguwGRqzOE,0,1
+981692982331031552,My answer to Artūras Friend’s question on @TryMolly #AskMolly
+https://t.co/3vOGFROPgf https://t.co/lkj9B4Y22f,0,3
+981680354690973696,My answer to Katelynne Schuler’s question on @TryMolly #AskMolly
+https://t.co/8ke87ugt9B https://t.co/HEUerdvmtg,1,2
+981677262452871170,My answer to @Scygone’s question on @TryMolly #AskMolly
+https://t.co/3Wf9VX9NAT https://t.co/c8W7UE2AT4,1,5
+981677190344355840,My answer to @Scygone’s question on @TryMolly #AskMolly
+https://t.co/3Wf9VX9NAT https://t.co/bkqs2Djcej,2,6
+981676427530530816,My answer to @EstherCrawford’s question on @TryMolly #AskMolly
+https://t.co/vBHiJU4r0i https://t.co/tBROtFIjMm,2,11
+981675910876184577,My answer to Catalin Boboc’s question on @TryMolly #AskMolly
+https://t.co/8CZsUsBing https://t.co/w8fkzIBcru,10,22
+981675044039376897,My answer to Artūras Friend’s question on @TryMolly #AskMolly
+https://t.co/cUWJDs5xPV https://t.co/nvtnBIdGHO,0,6
+981674705718411264,My answer to Daryl Yourk’s question on @TryMolly #AskMolly
+https://t.co/USa0CzqwXu https://t.co/5lcDa4f2a2,0,3
+981673921849147394,My answer to @nullshadow7’s question on @TryMolly #AskMolly
+https://t.co/DOwAVNH0iB https://t.co/Io767iwUVB,0,3
+981673655603118082,My answer to @orph’s question on @TryMolly #AskMolly
+https://t.co/gYZZez2KmU https://t.co/lhLTmyyVYN,1,6
+981671716588892160,My answer to @EstherCrawford’s question on @TryMolly #AskMolly
+https://t.co/2mh6RXuhNF https://t.co/OQo2jFvejl,0,3
+981671421993664512,My answer to @nullshadow7’s question on @TryMolly #AskMolly
+https://t.co/TaYCuPFsou https://t.co/JSOFQp4fO1,1,5
+981671158725599232,@containerengine It seems to not have automatically identified what you said as a question, may need a question mark at the end,0,0
+981670759566163968,@RichardHeartWin To get an answer you have to phrase in the form of a question and punctuate appropriately,0,1
+981670251468242944,My answer to @WhydoiNot’s question on @TryMolly #AskMolly
+https://t.co/je7TKNSw64 https://t.co/z3FN57nEMr,0,13
+981670140470161408,My answer to Mark Belktron’s question on @TryMolly #AskMolly
+https://t.co/jDG3bnkzXw https://t.co/Zdizt06US3,1,6
+981669980021248000,My answer to @samaparicio’s question on @TryMolly #AskMolly
+https://t.co/25hqRb7q3c https://t.co/ZGPpEAp0sO,1,9
+981668859315802112,My answer to @yungrollneck’s question on @TryMolly #AskMolly
+https://t.co/a6lyQO3geg https://t.co/IGDA0SSTfR,4,36
+981667398234193920,Ask me anything https://t.co/AzLRQEgyrG,0,12
+981615523203973120,Now it will be necessary to find someone on Facebook by adding to contacts to find them on Snapchat, then searching… https://t.co/MDMZw4KUlq,1,2
+981609137883709440,Being a 'vegan bodybuilder' might result in not getting enough nutrients for your brain to function properly,2,31
+981563814956208134,Most companies use an IPO structure where they raise money they don't need to get founder liquidity which they do.… https://t.co/lu4DjQnsfF,2,11
+981422167148630016,@Daniel_Plante There's a whole song about it https://t.co/VF2dtXiR4T,0,0
+981288151393153029,The word is spelled F-R-I-N-D-S. did I make that clear? It's F-R-I-N-D-S,0,5
+981003685152014336,@VladZamfir That would be a soft fork, not a hard fork,0,6
+980905936456794113,@christophejunke @hughw @kragen @peterseibel An else clause is not the same as finally!,0,1
+980700236833218560,@peterseibel Coincidentally, I just used it today. The for/else was much prettier than setting and checking a boolean,0,1
+980664557046710272,@peterseibel for/else is a very handy construction. The else only gets hit if there's no break. People tell me I sh… https://t.co/LdaTZuaguM,2,15
+980509796657913856,@ProgRockRec Sounds more secure than most of the 'useful' proofs of work people propose,0,1
+979878362230370304,RT @DougPolkPoker: There are 0 out of 535 members of the United States House/Senate who are openly agnostic/atheist.
+
+We have a long way to…,135,0
+979455504362618880,@TamasBlummer @JoshConstine Overcoming that is the whole challenge but I believe we have it worked out with the alr… https://t.co/WZPrL2y3KH,0,2
+979432091493412864,@TamasBlummer @JoshConstine Initialization costs are very cheap though, basically two passes over the disk, so I ex… https://t.co/Akx3BE8gm7,0,0
+979431292763713536,@TamasBlummer @JoshConstine There are two questions here: Do people buy more storage to farm with? Do people bother… https://t.co/cFEAWvK0G1,0,130
+979421800365899776,Nah, Trump's lawyer will just claim that Trump's lawyer's lawyer wasn't actually Trump's lawyer's lawyer when he cl… https://t.co/D56vSatDnI,2,10
+979415449958981632,@TamasBlummer @JoshConstine The cost of the initial allocation are vastly less than the cost of the storage it's kept on though,0,130
+979415225425260544,@TamasBlummer @JoshConstine The limiting factor on it is storage capacity, but yes in some sense it's digging up wo… https://t.co/Rut2RvOb4G,0,0
+979029404511739904,@gegereno That's an interesting question,0,1
+979029220457308161,@LarryBitcoin @JoshConstine The idea is to make it so that miners can steal from the pool,0,4
+979015014207053824,RT @JoshConstine: Scoop on one of the hottest crypto startups from torrenting inventor @BramCohen: Chia just raised from Andreessen, avoids…,27,0
+978890698907947008,For those of you not in the know 'rescission' means 'You have to give the money back. All of it.' https://t.co/HN2jWz6Qkk,26,92
+978709719853363200,@beardcoin Yeah I was sort of live tweeting it,0,1
+978709638890774528,@kelvin04807132 Not interested,0,0
+978709457575198721,@Daniel_Plante @adam3us @NickSzabo4 @peterktodd @lopp @eric_lombrozo @TheBlueMatt @pwuille I can't  figure out what… https://t.co/UYXREpaykY,0,1
+978670877473517568,@peterktodd Since my effort is more about making a good implementation than doing original theory, I'm glad to have… https://t.co/J34cSNnjFQ,0,4
+978473213079384064,@DougPolkPoker @pattystash @CryptoGomez Haha YouTube time rebalancing arb?,0,0
+978464112442142720,HTTP/2 actually multiplexes properly. Makes it a reasonable transport for RPC-like protocols,4,20
+978463197882544128,Lightning Go codebase general principle: separate subsystems which only communicate via message passing. Should be done in any language!,15,61
+978439684257849344,@uhhyeahbret Actually that's what people who aren't CS people mean when they say 'time'. When CS people say 'time'… https://t.co/7CuccI56eL,0,1
+978414875067035648,Yep https://t.co/hI1v31vetR,1,0
+978408661797122048,@KishoreKV Just a guess,0,0
+978379141631303681,The fallout from Cambridge Analytica will probably be severe curtailing of third party data access by Facebook, iOS… https://t.co/GboMqR0v1f,12,65
+978374558951641088,@dammkewl It would be silly to claim something as original when it's already published and well studied. Besides,… https://t.co/ido0Nr5Asg,0,3
+978358813542596608,@EdanYago @AriDavidPaul Now that there's real logic for handling fees there are separate day/night and weekday/week… https://t.co/ot2iQeDnyM,0,0
+978357065390342147,@peterktodd It turns out all that compression stuff in my Merkle Set is just a reinvention of Radix Trees. Given th… https://t.co/FgSbc29iUi,0,15
+978354306549207040,A new constructions for BLS with multi-signature aggregation https://t.co/ZGbeKkETiU,18,67
+977769143129718784,@PhillipJeffri12 Beats me. I sat next to Drew at a presentation of one of the guys who does dutch auctions a few ye… https://t.co/Q5WwkjpclF,0,0
+977760883295186944,@AriDavidPaul How else will we get people to adopt lightning?,1,28
+977760566964989952,@PhillipJeffri12 Google did an IPO without traditional underwriters and it went fine. Dropbox could easily have done one as well,0,0
+977760345258250240,@PhillipJeffri12 That was a relatively small money raise. Probably more like 200 million in profit given the pop an… https://t.co/OeBhUgI1Aj,0,0
+977737717290119168,When will a transaction fee market ever develop? https://t.co/SkVJxohSiG,22,88
+977649244315164672,@PhillipJeffri12 Underwriters provide millions of dollars worth of services for billions in profits. They don't eve… https://t.co/qxFKwfLFVB,0,1
+977290615997132800,@hudsonjh10 The goal of an IPO is to raise money for the company, not make a donation to wall street,0,2
+977278907891138560,DropBox IPO fails miserably. Gave a quarter of all proceeds to underwriters https://t.co/0phmfsnVhR,5,37
+976489652252102656,@evawolfangel Mail me at my name at https://t.co/DDqrFoDiNS,0,0
+976489433636552704,@ahcastor Mail me at my name at https://t.co/DDqrFoDiNS,0,0
+976169507461873664,@matthew_d_green Or better: It sends over counter mode encrypted data in the exact amount of free memory, then read… https://t.co/DXf3lhTsAL,0,1
+976169004556460032,@matthew_d_green Maybe the secure device could issue proof of space challenges to the main device and require low l… https://t.co/qXyPxy9Hqt,0,3
+975910964003356672,@carinyuso @peterktodd https://t.co/DDqrFoDiNS,0,1
+975910353824399360,RT @alexstamos: Despite the rumors, I'm still fully engaged with my work at Facebook. It's true that my role did change. I'm currently spen…,899,0
+975870657006219264,Chia timelocks will support timestamps, block height, and proof of time iterations. That last one for the benefit of @peterktodd,2,42
+975854313250541568,@theinstagibbs @waxwing__ Everybody knows that 'crypto' is short for 'cryptography' and should stay that way,0,2
+975854162641534976,@San_person A spent coin. A coin not in the unspent set,0,0
+975827188158054400,@pmkoom It will be some time. Lots of things need to be built and we're working on it,0,0
+975826124398735360,Would it be okay to start calling the UTXO model the 'coin set' model? That seems much more descriptive and less confusing,4,25
+975793594077298688,RT @MachinePix: Automatic shoe cover for clean facilities. https://t.co/sUQSfwbBP2,479,0
+975081283477954561,@DougPolkPoker https://t.co/JXHiiFvBMp,0,2
+975080714906435584,@Melt_Dem Yo over here https://t.co/DDqrFoDiNS,1,24
+974450881017004032,@ezraklein Say how you feel,0,0
+974429995501207552,@jenberry7 Your secret is safe with me,0,0
+974391931508736000,@jenberry7 Lots of fascinating twisty puzzles being made these days,0,0
+974344067244052480,A puzzle with 3-fold rotation on one axis and 4-fold on another https://t.co/kewJDJbJtB,1,9
+974016263780409344,@paulkrugman Don't give him ideas!,0,7
+973613401468428289,Congratulations on taking a position in the newly formed toothless office of making the president not look bad https://t.co/Ejo9hy37EE,2,11
+973075900001533952,@ebfull @_prestwich We certainly will, although at the moment we're still getting basic functionality working,0,0
+973074623423066113,@ebfull Yes it would have been nice if they'd have permuted the letters for BLS12-381,0,0
+972917698773463040,@ebfull Exactly what it sounds like: BLS signatures and public keys are points on curves, we're swapping which is w… https://t.co/AoL63BH2MO,0,0
+972917407919427584,@floui_ https://t.co/irYaRmj4gs,0,2
+972574154716139520,@socrates1024 @paddyucl It states: In any reorg which doesn't go past the coinbase lock time and where there are no… https://t.co/zg7MtMKPWK,0,4
+972573326580203520,@mHaGqnOACyFm0h5 ETH state is so complicated that the only possible way to do it is with a forced order. Causes lon… https://t.co/Vo8fZ0jz33,0,1
+972558176590508033,@mHaGqnOACyFm0h5 The cryptographic properties of a secure hash based history implicitly enforce a (partial) orderin… https://t.co/vNs2AOj4BD,0,0
+972554375095754752,@theinstagibbs @socrates1024 @paddyucl Nope! Working out an example of why is left as an exercise for the reader. Or you can check my feed,0,0
+972553596297359361,Fun problem: Read just the first sentence of this tweet, and work out at example proving it for yourself https://t.co/ctiS3QAui5,0,12
+972553253673099264,@socrates1024 @paddyucl Accounts are inherently nonreorgsafe. If starting balances are (1, 5, 0) and the transactio… https://t.co/1PsyuOHRl1,0,12
+972305305492111365,@danrobinson @peterktodd Well yeah, if it isn't in a covenant there's no need for so much flexibility. You could ar… https://t.co/ee2wlztI9f,0,0
+972293646245507072,@peterktodd That doesn't cover for unknown amounts, like 'the amount going into output X must be at least my amount… https://t.co/Mxes21S9ed,0,0
+972292929589923841,@peterktodd Fair enough, that can probably handle most cases. In order to compare age and amount though at least on… https://t.co/6ogVDASyyI,0,0
+972291695554445312,@peterktodd CLTV is the common case, but you also might want things like having a vault which only lets out funds a… https://t.co/1GhGlhTHXg,0,1
+972255530495496192,@phzix Ah that makes sense. Truth be known signaling bits can always be reclaimed after a soft fork gets activated… https://t.co/kypH2vvLj6,0,2
+972239629448462336,@phzix Does Dragonmint support blocking some bip9 signals in case anyone decides to actually do real bip9 signaling… https://t.co/wGvf0PjdL3,0,0
+972239306730319872,Good news: overt asicboost isn't damaging to Bitcoin as a whole. It's also really, really obvious. Will be interest… https://t.co/iDKuOiKNa2,10,39
+972234767398707200,Does DragonMint's Asicboost implementation reduce the number of transactions accepted, and if not could further opt… https://t.co/PT5Dh0bLh5,1,9
+972225243061219328,@danrobinson The general plan is to support BIP144-style MAST in Taproot but remove OP_IF. This is all speculative… https://t.co/9hyatHYYpw,0,1
+972223765194063873,@thomaskerin There's a lot of resistance to recursive MAST for now just because of difficulty analyzing it,0,1
+972223313731661824,@danrobinson The general feeling is that we should eventually wind up with a shnorr + taproot + graftroot option. T… https://t.co/sT0OBAWIH9,0,2
+972223051696783360,@danrobinson Right there's unfortunately no way in graftroot to prove that the private key has been burned,0,0
+972222733332316160,@danrobinson Bitcoin will continue to support raw scriptpubkeys but their utility is limited once taproot + graftroot is an option,0,0
+972222253025738752,@danrobinson It doesn't make the transaction any larger and makes it indistinguishable from a normal UTXO until it'… https://t.co/BgVieJSD7u,0,0
+972221041140379650,@danrobinson Some of the taproot use cases are where a clean exit doesn't apply. There's a simple trick for showing… https://t.co/2tYkA4fW6T,0,0
+972220828468178944,@danrobinson In most smart contracts there's the clean path where everybody agrees and the result is short circuite… https://t.co/XvOZy2TDao,0,0
+972214652087123968,@_drgo @adam3us @kanzure @TheBlueMatt @LukeDashjr @lopp @jimmysong @el33th4xor @ittayeyal @socrates1024 @paddyucl… https://t.co/vEAtZrnMY7,0,5
+972213347696353280,@_drgo @adam3us @kanzure @TheBlueMatt @LukeDashjr @lopp @jimmysong @el33th4xor @ittayeyal Discussions so far have b… https://t.co/9nGzHTMHBt,0,2
+972212616415232000,Devs are generally interested in an ability for transactions to have a dependency on another TXO having been create… https://t.co/Ufj38yEU60,3,8
+972210852693622784,The technical details of Taproot are fairly clear while the analysis and optimizations of Graftroot are still in fl… https://t.co/VFBGFkxAf4,1,9
+972210181789466624,@_drawingthesun Yes info is at https://t.co/DDqrFoDiNS,0,1
+972210097769275392,@zaksmith Yes using taproot and graftroot in combination is clearly the way to go although graftroot doesn't make m… https://t.co/Envb0wfsWx,0,10
+972209591214784512,@danrobinson Huh? You can use Graftroot with any number of alternative scripts, but it doesn't make any sense unles… https://t.co/DwkNzfxd01,0,0
+972208962278797312,At Chia we've been working on a BLS implementation. Going with BLS12-381 but swapping the curves so it's 48 byte pu… https://t.co/7jm8komJHx,12,78
+972208291274084352,My Merkle Set still needs porting to C/C++. Experience with porting so far is that it makes typesafe languages cry.… https://t.co/gL39CmRlj4,1,10
+972207459443007488,Interesting question: What's necessary to support lightning sprites in the utxo model, and what does the state look… https://t.co/IdPEaGal5b,2,13
+972207109348577280,In a future script version it would be good to have opcodes to push the locktime and relative lock time onto the st… https://t.co/7qSi5g6ZAo,1,6
+972206679277252608,The utility of having having IF/ELSE/ENDIF in scripts with MAST or graftroot is highly dubious, removing them compl… https://t.co/nvAtZy4xJk,1,9
+972206386892304384,Core devs are generally very excited about taproot and graftroot. Likely roadmap is taproot + MAST (bip 114 style)… https://t.co/pYHpb9oNkJ,38,152
+972205820275388416,Sensible but slightly disappointing conclusion to extensive discussions about Bitcoin script upgradeability: non-ve… https://t.co/YZIzQRbOof,1,10
+971901665279336448,We are approaching the presidential scandal singularity,1,30
+971836734697852928,@NateSilver538 The smart money bets on what they think the weirdos will think in the future,1,6
+970699933081841665,@SGBarbour @fbarkhau @Truthcoin @derose @peterktodd There's a work difficulty adjustment which applies to farming,… https://t.co/EeQANk2inV,0,0
+970695730435379200,@peterktodd @hoffmang @fbarkhau @Truthcoin @derose In this case 'consumers' includes a lot of entreprises who have… https://t.co/9XcN5hfpUe,0,3
+970695393028788224,@Truthcoin @derose @fbarkhau @peterktodd It's possible to farm on the underlying partition, so the file system cont… https://t.co/WwYpuUlRtx,0,2
+970694718840627200,@fbarkhau @peterktodd @hoffmang @Truthcoin @derose Costs of installation are basically two passes over the disk to… https://t.co/uyCVXKIjth,0,1
+970670887811895296,@peterktodd @fbarkhau @Truthcoin @derose Total storage sold. @hoffmang has been doing research and running numbers,0,1
+970667819086917632,@fbarkhau @Truthcoin @derose @peterktodd The market for storage is about $140 billion per year and growing. Storage… https://t.co/JDp9Us1NCE,1,5
+970549521213284352,@Truthcoin @fbarkhau @derose @peterktodd It will cause a much smaller increase in consumption than the rewards if t… https://t.co/Il9oLckvLA,0,7
+970153303148584960,@DougPolkPoker Since you're taking stances on controversial issues now, what's your favorite text editor?,0,16
+969602777780453376,@sirchig @Bitbucket What is it that you're trying to do? We don't have any code available for Chia yet,0,0
+969594397619818496,@sirchig @Bitbucket What are you trying to do? We moved it to https://t.co/DDqrFolHWk,0,0
+969593056235327488,Cryptocurrency centralization is like harvesting metal off a bridge: A slippery slope of free money which works gre… https://t.co/48mXpBUovh,205,745
+969561773908090881,The surprising answer (spoiler!) is that the expected time to the next block is 10 minutes, and the expected time t… https://t.co/lbAuq5S9JY,1,20
+969257712335892491,If pompousness was the measure of blockchain quality Ouroboros would win hands down,5,48
+969213226167791616,RT @botnikstudios: Using predictive text we made a new Gwyneth Paltrow and created the ultimate lifestyle brand: goob
+https://t.co/AOrLsRgq…,1837,0
+968938934330851328,Is there a True Snopes feed of just the things Snopes rates as 'true'?,0,15
+968170550097883136,If you're really worried about active shooters in schools the appropriate security measure is putting locks on door… https://t.co/VMzGlofGTh,2,28
+968074727565688832,@BrettRichey @DougPolkPoker That's some thin value right there. Or maybe just insanity,0,1
+968044567550447616,@BrettRichey @DougPolkPoker Maybe J couldn't possibly have completed anything and it was (correctly!) viewed as an… https://t.co/LxBiHfgGiy,0,0
+968037965372026881,@DougPolkPoker King makes a good bluff because it's a blocker? Hard to justify that river call though. Maybe he had a read?,0,1
+967957755339436034,@pwuille Oh right. Random point in time is skewed upwards for both. I was thinking random block,0,6
+967955890711212033,@pwuille Mean is by definition 10 minutes. Median should be less than that,0,1
+967900196368613376,The sky is falling! https://t.co/96ppWi67Ty,4,31
+967889737368313856,@crodas @DougPolkPoker If the goal is to maximize the chances of beating every single other player a maximally unus… https://t.co/39Dj9gRFrF,1,5
+967889396778254336,@PredictWatchWin Come on the keybase channel to discuss, or submit your resume if you have coding/cryptography skills,0,1
+967888957831725056,@DougPolkPoker Mine is 100% in USDT,0,12
+967846290405998593,@fredwilson Has everything moved back to the old stuy building?,0,1
+967614962909589504,This looks a bit overheated https://t.co/3uarHXw7kU,4,14

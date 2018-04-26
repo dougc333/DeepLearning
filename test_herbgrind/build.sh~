@@ -1,5 +1,0 @@
-#!/bin/bash
-
-
-gcc ./main.cpp -00 -g -lm -o main
-

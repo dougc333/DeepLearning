@@ -1,3 +1,4 @@
+ethan/docs.pkl
 hinton/image-classification/*.gz
 first-neural-network/Bike-Sharing-Dataset/*.csv
 kaggle/rossmann/original/*.csv
@@ -27,6 +28,8 @@ GAN/data/train_32x32.mat
 /**/*.jpg
 /**/.DS_Store
 /**/*.gz
+/**/*.pkl
+/**/*.pkl
 /kaggle/train/*
 /kaggle/test/*
 /kaggle/mnist_data/*

@@ -22,8 +22,8 @@
       <file leaf-file-name="Download_Data.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Download_Data.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="59" column="74" lean-forward="false" selection-start-line="59" selection-start-column="70" selection-end-line="59" selection-end-column="74" />
+            <state relative-caret-position="686">
+              <caret line="82" column="0" lean-forward="true" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -47,8 +47,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="233" />
-    <option name="y" value="32" />
+    <option name="x" value="2235" />
+    <option name="y" value="320" />
     <option name="width" value="1440" />
     <option name="height" value="873" />
   </component>
@@ -68,7 +68,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -83,6 +82,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -403,7 +403,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="233" y="32" width="1440" height="873" extended-state="0" />
+    <frame x="2235" y="320" width="1440" height="873" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -439,8 +439,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Download_Data.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="59" column="74" lean-forward="false" selection-start-line="59" selection-start-column="70" selection-end-line="59" selection-end-column="74" />
+        <state relative-caret-position="686">
+          <caret line="82" column="0" lean-forward="true" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>

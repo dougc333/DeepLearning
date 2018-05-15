@@ -1,3 +1,4 @@
+twitter_nlp/ethan/*.pkl
 ethan/docs.pkl
 hinton/image-classification/*.gz
 first-neural-network/Bike-Sharing-Dataset/*.csv

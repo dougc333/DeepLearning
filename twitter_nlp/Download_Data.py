@@ -3,6 +3,7 @@ import tweepy
 #import twitter
 from pathlib import Path
 import spacy
+import Config
 
 class Download_Data:
 	def __init__(self):

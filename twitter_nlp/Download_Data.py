@@ -3,20 +3,24 @@ import tweepy
 #import twitter
 from pathlib import Path
 import spacy
-import Config
+from ehtan import Config
+from pymongo import MongoClient
 
 class Download_Data:
 	def __init__(self):
-		self.consumer_key = 'eFIaiOuxsny01VVQ2QWISK1Mw'
-		self.consumer_secret = 'gDQI5EiCMJJaaNI8XVNhfZXwuCOYfeJ3XsOUNHvsXqgq0Hoj9T'
-		self.access_token='76976448-Otz8w4yMKx6yCEWTH3dNTfuF8LYeLgqdoDrcl0oBK'
-		self.access_secret='NFPFe2EzuKWuzRKmY1RENUBfQzGeGbAS1JzjX3Eu3GwDE'
+		self.client = MongoClient()
+		self.db = self.client['twitter']
+		c = Config.Config()
+		self.consumer_key = c.consumer_key
+		self.consumer_secret = c.consumer_secret
+		self.access_token= c.access_token
+		self.access_secret= c.access_secret
 		self.authentication = tweepy.OAuthHandler(self.consumer_key, self.consumer_secret)
 		self.authentication.set_access_token(self.access_token, self.access_secret)
 		self.api = tweepy.API(self.authentication)
 		self.nlp = spacy.load('en')
 		self.user_name = 'jeremyphoward'
-		self.user_names = {'jeremyhoward':0,'mwseibel':0,'bramcohen':0}
+		self.user_names = {'jeremyhoward':db['jeremyhoward'],'mwseibel':db['mwseibel'],'bramcohen':db['bramcohen']}
 
 
 	def create_dirs(self):
@@ -58,9 +62,11 @@ class Download_Data:
 	def save_data(self):
 		for x in self.user_names:
 			print('user:',x)
-			new_tweets = self.api.user_timeline(screen_name =x ,count=2000)
+			mongo_coll = user_names[x]
+			new_tweets = self.api.user_timeline(screen_name =x ,count=10)
 			for tweet in new_tweets:
 				print(tweet.text)
+				mongo_coll.insert(tweet._json)
 				print(tweet.retweet_count, tweet.favorite_count)
 				self.user_names[x].write("{},{},{},{}\n".format(tweet.id,tweet.text,tweet.retweet_count, tweet.favorite_count))
 				print('-----------------------')

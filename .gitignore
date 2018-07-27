@@ -1,3 +1,9 @@
+twitter_nlp/jh_tweets
+twitter_nlp/bc_tweets
+twitter_nlp/mw_tweets
+twitter_nlp/jh_tweets/*
+twitter_nlp/bc_tweets/*
+twitter_nlp/mw_tweets/*
 twitter_nlp/ethan/*.pkl
 ethan/docs.pkl
 hinton/image-classification/*.gz
